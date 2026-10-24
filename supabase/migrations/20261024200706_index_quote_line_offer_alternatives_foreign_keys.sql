@@ -1,0 +1,8 @@
+create index quote_line_offer_alternatives_added_by_idx
+  on public.quote_line_offer_alternatives(added_by);
+create index quote_line_offer_alternatives_product_idx
+  on public.quote_line_offer_alternatives(product_id);
+create index quote_line_offer_alternatives_supplier_offer_idx
+  on public.quote_line_offer_alternatives(supplier_offer_id);
+create index quote_line_offer_alternatives_supplier_organization_idx
+  on public.quote_line_offer_alternatives(supplier_organization_id);

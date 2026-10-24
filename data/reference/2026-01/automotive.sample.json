@@ -1,0 +1,1840 @@
+{
+  "groups": {
+    "togo-reference-prices-2026-01:p0494:t03:r001": "batteries",
+    "togo-reference-prices-2026-01:p0494:t03:r004": "batteries",
+    "togo-reference-prices-2026-01:p0494:t03:r007": "batteries",
+    "togo-reference-prices-2026-01:p0494:t03:r011": "batteries",
+    "togo-reference-prices-2026-01:p0494:t03:r012": "batteries",
+    "togo-reference-prices-2026-01:p0509:t01:r015": "batteries",
+    "togo-reference-prices-2026-01:p0509:t01:r016": "batteries",
+    "togo-reference-prices-2026-01:p0509:t01:r017": "batteries",
+    "togo-reference-prices-2026-01:p0499:t01:r001": "filtres",
+    "togo-reference-prices-2026-01:p0499:t01:r005": "filtres",
+    "togo-reference-prices-2026-01:p0499:t01:r012": "filtres",
+    "togo-reference-prices-2026-01:p0499:t01:r015": "filtres",
+    "togo-reference-prices-2026-01:p0499:t01:r023": "filtres",
+    "togo-reference-prices-2026-01:p0508:t01:r001": "filtres",
+    "togo-reference-prices-2026-01:p0511:t01:r014": "filtres",
+    "togo-reference-prices-2026-01:p0511:t01:r024": "filtres",
+    "togo-reference-prices-2026-01:p0493:t04:r001": "amortisseurs",
+    "togo-reference-prices-2026-01:p0493:t04:r002": "amortisseurs",
+    "togo-reference-prices-2026-01:p0493:t04:r005": "amortisseurs",
+    "togo-reference-prices-2026-01:p0493:t04:r006": "amortisseurs",
+    "togo-reference-prices-2026-01:p0508:t01:r023": "amortisseurs",
+    "togo-reference-prices-2026-01:p0509:t01:r007": "amortisseurs",
+    "togo-reference-prices-2026-01:p0509:t01:r027": "amortisseurs",
+    "togo-reference-prices-2026-01:p0510:t01:r007": "amortisseurs",
+    "togo-reference-prices-2026-01:p0492:t02:r001": "huiles",
+    "togo-reference-prices-2026-01:p0492:t03:r001": "huiles",
+    "togo-reference-prices-2026-01:p0492:t03:r004": "huiles",
+    "togo-reference-prices-2026-01:p0492:t03:r007": "huiles",
+    "togo-reference-prices-2026-01:p0492:t03:r010": "huiles",
+    "togo-reference-prices-2026-01:p0492:t03:r014": "huiles",
+    "togo-reference-prices-2026-01:p0492:t04:r001": "huiles",
+    "togo-reference-prices-2026-01:p0500:t02:r003": "huiles",
+    "togo-reference-prices-2026-01:p0503:t04:r001": "pneus",
+    "togo-reference-prices-2026-01:p0503:t04:r002": "pneus",
+    "togo-reference-prices-2026-01:p0503:t04:r007": "pneus",
+    "togo-reference-prices-2026-01:p0504:t01:r008": "pneus",
+    "togo-reference-prices-2026-01:p0504:t01:r015": "pneus",
+    "togo-reference-prices-2026-01:p0504:t01:r017": "pneus",
+    "togo-reference-prices-2026-01:p0509:t01:r019": "pneus",
+    "togo-reference-prices-2026-01:p0509:t01:r021": "pneus"
+  },
+  "records": [
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5941",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0508-614428",
+      "designation": "Batterie 12 V 150AH Blindée",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 135000,
+        "li": 101250,
+        "ls": 168750,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 494,
+        "printed_page": 364,
+        "table_index": 3,
+        "row_index": 1,
+        "bbox": [
+          66.601,
+          385.841,
+          535.86,
+          403.32
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r004",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5944",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0508-614428",
+      "designation": "Batterie Blindée 100 AH CFAO",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 108019,
+        "li": 81014,
+        "ls": 135024,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 494,
+        "printed_page": 364,
+        "table_index": 3,
+        "row_index": 4,
+        "bbox": [
+          66.601,
+          435.89,
+          535.86,
+          452.14
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r007",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5947",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0508-614428",
+      "designation": "Batterie Blindée 75 AH Original",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 80243,
+        "li": 60182,
+        "ls": 100304,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 494,
+        "printed_page": 364,
+        "table_index": 3,
+        "row_index": 7,
+        "bbox": [
+          66.601,
+          484.62,
+          535.86,
+          500.88
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r011",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5951",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0508-614428",
+      "designation": "Batterie pour voiture 12V100 AH de marque: VASWORLD POWER",
+      "unit_raw": "Pièce",
+      "unit": "piece",
+      "kind": "product",
+      "prices": {
+        "pm": 56582,
+        "li": 42436,
+        "ls": 70727,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 494,
+        "printed_page": 364,
+        "table_index": 3,
+        "row_index": 11,
+        "bbox": [
+          66.601,
+          549.479,
+          535.86,
+          581.546
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r012",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5952",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0508-614428",
+      "designation": "Batterie pour voiture 12V100AH de marque: DELTA",
+      "unit_raw": "Pièce",
+      "unit": "piece",
+      "kind": "product",
+      "prices": {
+        "pm": 88987,
+        "li": 66741,
+        "ls": 111234,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 494,
+        "printed_page": 364,
+        "table_index": 3,
+        "row_index": 12,
+        "bbox": [
+          66.601,
+          581.546,
+          535.86,
+          610.56
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r015",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6208",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Batteries 100 AH 12 V",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 89900,
+        "li": 67425,
+        "ls": 112375,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 15,
+        "bbox": [
+          66.772,
+          387.615,
+          535.751,
+          407.57
+        ],
+        "section": {
+          "label_raw": "BATTERIES",
+          "pdf_page": 509,
+          "y": 368.281,
+          "kind": "product_group"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r016",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6209",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Batteries 90 AH 12 V",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 84100,
+        "li": 63075,
+        "ls": 105125,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 16,
+        "bbox": [
+          66.772,
+          407.57,
+          535.751,
+          424.19
+        ],
+        "section": {
+          "label_raw": "BATTERIES",
+          "pdf_page": 509,
+          "y": 368.281,
+          "kind": "product_group"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r017",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6210",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Batteries 75 AH 12 V",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 65250,
+        "li": 48938,
+        "ls": 81563,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 17,
+        "bbox": [
+          66.772,
+          424.19,
+          535.751,
+          442.042
+        ],
+        "section": {
+          "label_raw": "BATTERIES",
+          "pdf_page": 509,
+          "y": 368.281,
+          "kind": "product_group"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6017",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0524-614533",
+      "designation": "Filtre à air NISSAN 4x4",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 39093,
+        "li": 29320,
+        "ls": 48866,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 499,
+        "printed_page": 369,
+        "table_index": 1,
+        "row_index": 1,
+        "bbox": [
+          66.838,
+          161.427,
+          535.681,
+          178.81
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r005",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6021",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0524-614533",
+      "designation": "Filtre à clim Original CFAO HILUX 5L 4X4 Original",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 30657,
+        "li": 22993,
+        "ls": 38321,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 499,
+        "printed_page": 369,
+        "table_index": 1,
+        "row_index": 5,
+        "bbox": [
+          66.838,
+          227.61,
+          535.681,
+          243.87
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r012",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6028",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0524-614533",
+      "designation": "Filtres à air 5L 2006-2010 HILUX 5L 4X4 Original",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 40944,
+        "li": 30708,
+        "ls": 51181,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 499,
+        "printed_page": 369,
+        "table_index": 1,
+        "row_index": 12,
+        "bbox": [
+          66.838,
+          341.37,
+          535.681,
+          357.459
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r015",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6031",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0524-614533",
+      "designation": "Filtres à air 5L 2018-2020 HILUX 5L 4X4 Original CFAO",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 84358,
+        "li": 63268,
+        "ls": 105447,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 499,
+        "printed_page": 369,
+        "table_index": 1,
+        "row_index": 15,
+        "bbox": [
+          66.838,
+          405.719,
+          535.681,
+          437.802
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r023",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6039",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0524-614533",
+      "designation": "Filtres à huile 5L 2018-2020 Original CFAO",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 20369,
+        "li": 15277,
+        "ls": 25462,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 499,
+        "printed_page": 369,
+        "table_index": 1,
+        "row_index": 23,
+        "bbox": [
+          66.838,
+          610.48,
+          535.681,
+          655.72
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0508:t01:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6164",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Filtres à huile",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 12325,
+        "li": 9244,
+        "ls": 15406,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 508,
+        "printed_page": 378,
+        "table_index": 1,
+        "row_index": 1,
+        "bbox": [
+          66.736,
+          149.852,
+          535.762,
+          167.2
+        ],
+        "section": {
+          "label_raw": "CHERY",
+          "pdf_page": 508,
+          "y": 130.853,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0511:t01:r014",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6278",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Filtre à gaz oïl (0L041)",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 14500,
+        "li": 10875,
+        "ls": 18125,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 511,
+        "printed_page": 381,
+        "table_index": 1,
+        "row_index": 14,
+        "bbox": [
+          66.79,
+          328.36,
+          535.733,
+          344.61
+        ],
+        "section": {
+          "label_raw": "HILUX 2018",
+          "pdf_page": 510,
+          "y": 731.562,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0511:t01:r024",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6288",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Filtre à air",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 20600,
+        "li": 15450,
+        "ls": 25750,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 511,
+        "printed_page": 381,
+        "table_index": 1,
+        "row_index": 24,
+        "bbox": [
+          66.79,
+          512.88,
+          535.733,
+          529.13
+        ],
+        "section": {
+          "label_raw": "PEUGEOT LANDTREK",
+          "pdf_page": 511,
+          "y": 395.061,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5926",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0505-614412",
+      "designation": "Amortisseur arrière (jeu) HIGHLANDER",
+      "unit_raw": "Ensemble",
+      "unit": "ensemble",
+      "kind": "product",
+      "prices": {
+        "pm": 63783,
+        "li": 47837,
+        "ls": 79729,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 493,
+        "printed_page": 363,
+        "table_index": 4,
+        "row_index": 1,
+        "bbox": [
+          66.525,
+          523.801,
+          535.917,
+          541.26
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r002",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5927",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0505-614412",
+      "designation": "Amortisseur arrire (jeu) RAV 4",
+      "unit_raw": "Ensemble",
+      "unit": "ensemble",
+      "kind": "product",
+      "prices": {
+        "pm": 59668,
+        "li": 44751,
+        "ls": 74585,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 493,
+        "printed_page": 363,
+        "table_index": 4,
+        "row_index": 2,
+        "bbox": [
+          66.525,
+          541.26,
+          535.917,
+          557.58
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r005",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5930",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0505-614412",
+      "designation": "Jeu d'amortisseurs arrière Toyota HiluX",
+      "unit_raw": "paire",
+      "unit": "paire",
+      "kind": "product",
+      "prices": {
+        "pm": 142483,
+        "li": 106862,
+        "ls": 178103,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 493,
+        "printed_page": 363,
+        "table_index": 4,
+        "row_index": 5,
+        "bbox": [
+          66.525,
+          590.08,
+          535.917,
+          606.4
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r006",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5931",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0505-614412",
+      "designation": "Jeu d'amortisseurs avant",
+      "unit_raw": "Paire",
+      "unit": "paire",
+      "kind": "product",
+      "prices": {
+        "pm": 266201,
+        "li": 199651,
+        "ls": 332751,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 493,
+        "printed_page": 363,
+        "table_index": 4,
+        "row_index": 6,
+        "bbox": [
+          66.525,
+          606.4,
+          535.917,
+          623.956
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0508:t01:r023",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6185",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Amortisseur AV",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 87000,
+        "li": 65250,
+        "ls": 108750,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 508,
+        "printed_page": 378,
+        "table_index": 1,
+        "row_index": 23,
+        "bbox": [
+          66.736,
+          617.387,
+          535.762,
+          634.72
+        ],
+        "section": {
+          "label_raw": "TOYOTA PRADO D4D",
+          "pdf_page": 508,
+          "y": 598.216,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r007",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6200",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Amortisseur AR",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 98600,
+        "li": 73950,
+        "ls": 123250,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 7,
+        "bbox": [
+          66.772,
+          236.55,
+          535.751,
+          252.87
+        ],
+        "section": {
+          "label_raw": "DUSTER",
+          "pdf_page": 509,
+          "y": 200.041,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r027",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6220",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Amortisseur AV (paire)",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 94250,
+        "li": 70688,
+        "ls": 117813,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 27,
+        "bbox": [
+          66.772,
+          629.507,
+          535.751,
+          646.83
+        ],
+        "section": {
+          "label_raw": "TOYOTA FORTUNER 5L",
+          "pdf_page": 509,
+          "y": 610.336,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "UNIT_PACKAGING_AMBIGUOUS"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0510:t01:r007",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6235",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "Amortisseur AR (paire)",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 94250,
+        "li": 70688,
+        "ls": 117813,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 510,
+        "printed_page": 380,
+        "table_index": 1,
+        "row_index": 7,
+        "bbox": [
+          66.793,
+          236.55,
+          535.731,
+          252.87
+        ],
+        "section": {
+          "label_raw": "TOYOTA FORTUNER D4D",
+          "pdf_page": 510,
+          "y": 200.041,
+          "kind": "vehicle_context"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "UNIT_PACKAGING_AMBIGUOUS"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t02:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5904",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0499-601152",
+      "designation": "Huile ATF CAP",
+      "unit_raw": "1l",
+      "unit": "litre",
+      "kind": "product",
+      "prices": {
+        "pm": 4938,
+        "li": 3704,
+        "ls": 6173,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 2,
+        "row_index": 1,
+        "bbox": [
+          66.329,
+          293.952,
+          535.935,
+          312.794
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5905",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0500-601155",
+      "designation": "CAP TAURUS 10W40 5l",
+      "unit_raw": "Bidon de 5L",
+      "unit": "bidon_5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 19500,
+        "li": 14625,
+        "ls": 24375,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 3,
+        "row_index": 1,
+        "bbox": [
+          66.329,
+          400.852,
+          535.935,
+          418.48
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r004",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5908",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0500-601155",
+      "designation": "CAP TAURUS SW40 5l",
+      "unit_raw": "Bidon de 5L",
+      "unit": "bidon_5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 23000,
+        "li": 17250,
+        "ls": 28750,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 3,
+        "row_index": 4,
+        "bbox": [
+          66.329,
+          451.017,
+          535.935,
+          467.277
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "OIL_GRADE_TO_REVIEW"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r007",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5911",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0500-601155",
+      "designation": "SHELL Helix HX3 SAE 50",
+      "unit_raw": "Bidon de 5L",
+      "unit": "bidon_5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 12000,
+        "li": 9000,
+        "ls": 15000,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 3,
+        "row_index": 7,
+        "bbox": [
+          66.329,
+          499.789,
+          535.935,
+          516.031
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r010",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5914",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0500-601155",
+      "designation": "SHELL Helix Ultra 5W40",
+      "unit_raw": "Bidon de 5L",
+      "unit": "bidon_5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 16000,
+        "li": 12000,
+        "ls": 20000,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 3,
+        "row_index": 10,
+        "bbox": [
+          66.329,
+          548.517,
+          535.935,
+          564.777
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r014",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5918",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0500-601155",
+      "designation": "TOTAL quartz 9000 5W40",
+      "unit_raw": "Bidon de 5L",
+      "unit": "bidon_5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 25850,
+        "li": 19388,
+        "ls": 32313,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 3,
+        "row_index": 14,
+        "bbox": [
+          66.329,
+          613.591,
+          535.935,
+          631.266
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t04:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "5919",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0501-601156",
+      "designation": "Huile de total quartz 9000",
+      "unit_raw": "1l",
+      "unit": "litre",
+      "kind": "product",
+      "prices": {
+        "pm": 15251,
+        "li": 11439,
+        "ls": 19064,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 492,
+        "printed_page": 362,
+        "table_index": 4,
+        "row_index": 1,
+        "bbox": [
+          66.329,
+          718.662,
+          535.935,
+          738.6
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0500:t02:r003",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6052",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0526-614549",
+      "designation": "Huile à pont",
+      "unit_raw": "5litres",
+      "unit": "5_litres",
+      "kind": "product",
+      "prices": {
+        "pm": 47117,
+        "li": 35338,
+        "ls": 58896,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 500,
+        "printed_page": 370,
+        "table_index": 2,
+        "row_index": 3,
+        "bbox": [
+          66.661,
+          422.28,
+          535.809,
+          439.822
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r001",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6099",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneu 195/65 R15 Marque MICHELIN",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 66869,
+        "li": 50152,
+        "ls": 83586,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 503,
+        "printed_page": 373,
+        "table_index": 4,
+        "row_index": 1,
+        "bbox": [
+          66.628,
+          606.128,
+          535.841,
+          623.61
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "POSSIBLE_DUPLICATE_SPECIFICATION"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r002",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6100",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneu 205/55/R16 91W",
+      "unit_raw": "1 unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 134767,
+        "li": 101075,
+        "ls": 168459,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 503,
+        "printed_page": 373,
+        "table_index": 4,
+        "row_index": 2,
+        "bbox": [
+          66.628,
+          623.61,
+          535.841,
+          639.93
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r007",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6105",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneu 225/70 R17 marque MICHELIN",
+      "unit_raw": "unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 113163,
+        "li": 84872,
+        "ls": 141454,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 503,
+        "printed_page": 373,
+        "table_index": 4,
+        "row_index": 7,
+        "bbox": [
+          66.628,
+          704.95,
+          535.841,
+          721.2
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "POSSIBLE_DUPLICATE_SPECIFICATION"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r008",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6116",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneu automobile 205 R16 C marque: JOYROAD",
+      "unit_raw": "Pièce",
+      "unit": "piece",
+      "kind": "product",
+      "prices": {
+        "pm": 108019,
+        "li": 81014,
+        "ls": 135024,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 504,
+        "printed_page": 374,
+        "table_index": 1,
+        "row_index": 8,
+        "bbox": [
+          66.693,
+          238.03,
+          535.79,
+          254.26
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r015",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6123",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneu Michelin 195/65 R15",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 91559,
+        "li": 68669,
+        "ls": 114449,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 504,
+        "printed_page": 374,
+        "table_index": 1,
+        "row_index": 15,
+        "bbox": [
+          66.693,
+          351.76,
+          535.79,
+          368.02
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "POSSIBLE_DUPLICATE_SPECIFICATION"
+        ],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r017",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6125",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0539-614615",
+      "designation": "Pneus 205R16C Bridgestone",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 183890,
+        "li": 137918,
+        "ls": 229863,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 504,
+        "printed_page": 374,
+        "table_index": 1,
+        "row_index": 17,
+        "bbox": [
+          66.693,
+          384.27,
+          535.79,
+          400.54
+        ],
+        "section": null
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r019",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6212",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "256/65 R 17 Toyota Prado",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 181250,
+        "li": 135938,
+        "ls": 226563,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 19,
+        "bbox": [
+          66.772,
+          478.56,
+          535.751,
+          494.88
+        ],
+        "section": {
+          "label_raw": "PNEUS",
+          "pdf_page": 509,
+          "y": 442.042,
+          "kind": "product_group"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "ready_for_review",
+        "codes": [],
+        "published": false
+      }
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r021",
+      "source_id": "togo-reference-prices-2026-01",
+      "source_item_number": "6214",
+      "group_id": "group-23",
+      "family_id": "group-23/family-0553-uncoded",
+      "designation": "215/65 Chrysler",
+      "unit_raw": "Unité",
+      "unit": "unite",
+      "kind": "product",
+      "prices": {
+        "pm": 166750,
+        "li": 125063,
+        "ls": 208438,
+        "currency": "XOF",
+        "tax_basis": "HT"
+      },
+      "source": {
+        "pdf_page": 509,
+        "printed_page": 379,
+        "table_index": 1,
+        "row_index": 21,
+        "bbox": [
+          66.772,
+          511.13,
+          535.751,
+          527.39
+        ],
+        "section": {
+          "label_raw": "PNEUS",
+          "pdf_page": 509,
+          "y": 442.042,
+          "kind": "product_group"
+        }
+      },
+      "identification": {
+        "manufacturer_reference": null,
+        "fitment_verified": false,
+        "structured_attributes_extracted": false
+      },
+      "valid_from": null,
+      "valid_until": null,
+      "review": {
+        "status": "needs_review",
+        "codes": [
+          "TYRE_DIMENSIONS_INCOMPLETE"
+        ],
+        "published": false
+      }
+    }
+  ]
+}

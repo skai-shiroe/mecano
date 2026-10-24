@@ -1,0 +1,25 @@
+Entretien, réparation et maintenance de véhicules
+                                 0553 - Autres entretiens
+                                                                        National
+ N°                       Désignations                 Unités
+                                                                  PM      LI      LS
+6300 Papier collant jaune (chatterton)                 Unité      1 450   1 088   1 813
+6301 Chatterton noir                                   Unité        525     394     656
+6302 Colle 4 min                                       Unité      2 175   1 631   2 719
+6303 Bougie d’allumage culot court                     Unité      5 075   3 806   6 344
+6304 Bougie d’allumage culot long                      Unité      5 075   3 806   6 344
+6305 Ampoule H11                                       Unité      7 975   5 981   9 969
+6306 Ampoule 9005                                      Unité      9 425   7 069 11 781
+6307 Ampoule 9006                                      Unité      9 425   7 069 11 781
+6308 Ampoule H7                                        Unité      6 525   4 894   8 156
+6309 L’eau de radiateur rouge (bidons)                 Unité      6 525   4 894   8 156
+6310 L’eau de radiateur bleu (bidons)                  Unité      6 525   4 894   8 156
+6311 Gaz acétylène + oxygène                           Unité    214 600 160 950 268 250
+6312 Gaz frigorifique 134 a                            Unité    188 500 141 375 235 625
+6313 Gaz frigorifique 410 a                            Unité    210 250 157 688 262 813
+6314 Gaz frigorifique R 22                             Unité    195 750 146 813 244 688
+
+
+
+
+                                              382

@@ -1,0 +1,53 @@
+Entretien, réparation et maintenance de véhicules
+
+      0528 - Famille [ 614554 ] Joints (vidange, cache culbuteur, carter, coude
+      turbo de culasse, grille au vent, ressort, silentbloc, torique, vilebrequin,
+          soupape, raccords, d’amortisseur, à lèvre, de pompe, injecteur,
+                         d’amplificateur, jauge, palier, etc.)
+                                                                                    National
+ N°                          Désignations                       Unités
+                                                                              PM         LI     LS
+6058 Joint de vidange                                            Unité 1 080     811 1 351
+6059 Courroie de chine                                           Unité 15 637 11 728 19 546
+6060 Joint de culasse                                            Unité 51 129 38 347 63 911
+6061 Joint de levier de vitesse                                  unité 9 773 7 330 12 216
+
+
+
+                          0529 - Famille [ 614555 ] Join d’arrêt
+                                                                              National
+  N°                   Désignations                 Unités
+                                                                 PM                LI          LS
+ 6062    Arrêt d'huile palier arrière               Unité            18 003        13 502      22 504
+
+
+
+         0530 - Famille [ 614573 ] Maître-cylindre (de frein, d’embrayage)
+                                                                                    National
+ N°                          Désignations                      Unités
+                                                                              PM        LI      LS
+6063 HILUX MAITRE CYLINDRE                                     1 unité 42 282 31 711 52 852
+6064 Maitre cylindre de freins                                  Unité 90 428 67 821 113 035
+6065 Maitre cylindre de freins HILUX 5L 4X4 Original            Unité 87 444 65 583 109 305
+6066 Maitre cylindre d'embrayage                                Unité 67 178 50 383 83 972
+
+
+ 0531 - Famille [ 614578 ] Mécanisme (d’embrayage, de lève-vitre, d’essuie-
+                                  glace)
+                                                                                   National
+ N°                       Désignations                      Unités
+                                                                         PM             LI      LS
+6067 Mécanisme d'embrayage                              Ensemble 148 655 111 491 185 819
+6068 Mécanisme d'embrayage 2005 HIGHLANDER              Ensemble 65 840 49 380 82 300
+     Mécanisme d'embrayage 2010 HILUX 5L 4X4
+6069                                                    Ensemble 190 320 142 740 237 900
+     Original
+6070 Mécanisme d'embrayage 2018 HIGHLANDER              Ensemble 103 904            77 928 129 880
+     Mécanisme d'embrayage 2018 HILUX 5L 4X4
+6071                                                    Ensemble 230 441 172 831 288 052
+     Original
+6072 Mécanisme d'embrayage NISSAN                       Ensemble        70 984      53 238     88 730
+
+
+
+                                              371

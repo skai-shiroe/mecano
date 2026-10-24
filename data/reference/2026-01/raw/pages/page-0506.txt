@@ -1,0 +1,47 @@
+Entretien, réparation et maintenance de véhicules
+
+
+   0546 - Famille [ 614653 ] Rotule (de direction, de suspension, à boîtier, à
+           châssis, de crémaillère, de pivot, sous amortisseur, etc.)
+                                                                           National
+ N°                     Désignations                   Unités
+                                                                  PM         LI         LS
+6141 HILUX ROTULE DE SUSPENSION                      1 JEU    32 097 24 073 40 121
+6142 Jeu de rotules bras inférieur                  Ensemble 185 176 138 882 231 470
+6143 Jeu de rotules bras supérieur                  Ensemble 151 227 113 420 189 034
+6144 Jeu de rotules de direction                    Ensemble 69 750 52 312 87 187
+     Rotules de pivot inférieur HILUX 5L 4X4
+6145                                                   Unité      29 320    21 990     36 649
+     Original
+     Rotules de pivot supérieur HILUX 5L 4X4
+6146                                                   Unité      29 320    21 990     36 649
+     Original
+
+
+
+      0547 - Famille [ 614654 ] Roulements (volant, central, capteur de roue,
+                amortisseur, à aiguille, tampon amortisseur, etc.)
+                                                                            National
+ N°                       Désignations                   Unités
+                                                                    PM        LI        LS
+6147 Roulement moyaux arrière HIGHLANDER                Ensemble 45 265 33 949 56 582
+6148 Roulement moyaux arrière NISSAN 4x4                Ensemble 39 093 29 320 48 866
+6149 Roulement moyaux avant HIGHLANDER                  Ensemble 47 323 35 492 59 153
+6150 Roulement moyaux avant NISSAN 4x4                  Ensemble 55 038 41 279 68 798
+6151 Roulement moyaux avant TOYOTA RAV 4                Ensemble 24 690 18 518 30 863
+6152 Roulement palier centrale HILUX 5L 4X4 Original     Unité 81 272 60 954 101 590
+
+
+
+      0548 - Famille [ 614664 ] Soufflet (cardan, crémaillère, amortisseur, de
+                       direction, de transmission, joint, etc.)
+                                                                           National
+ N°                      Désignations                   Unités
+                                                                   PM         LI        LS
+6153 Crémaillère complet RAV 4                         Ensemble 132 195 99 146 165 244
+6154 Jeu d'arrêt d'huile de queues soupapes             Unité    19 546 14 660 24 433
+
+
+
+
+                                              376

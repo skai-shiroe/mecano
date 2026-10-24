@@ -22,6 +22,7 @@ expo-env.d.ts
 .metro-health-check*
 
 # debug
+.eslintcache
 npm-debug.*
 yarn-debug.*
 yarn-error.*
@@ -30,8 +31,10 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local env files
-.env*.local
+# environment files
+.env
+.env.*
+!.env.example
 
 # typescript
 *.tsbuildinfo
@@ -39,3 +42,12 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Reference data tooling and local source PDFs
+/.venv-data/
+__pycache__/
+*.pyc
+/data/sources/*.pdf
+
+# Local Supabase CLI state
+supabase/.temp/

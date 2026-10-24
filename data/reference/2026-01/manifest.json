@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "source_id": "togo-reference-prices-2026-01",
+  "edition": "2026-01",
+  "edition_label_on_cover": "VERSION 2026 - 01",
+  "original_filename": "Repertoire_des_prix_2026.01.pdf",
+  "sha256": "5e49ab8ebc74c4bc26485949730d4435f4f3d564d3f7673bf37200456c63d416",
+  "byte_size": 22766101,
+  "page_count": 869,
+  "received_on": "2026-10-23",
+  "provenance": "Fichier fourni par le porteur du projet dans la conversation Check.",
+  "issuer_on_cover": "Ministère des Finances et du Budget - République togolaise",
+  "pdf_metadata": {
+    "Author": "DCF",
+    "CreationDate": "D:20260914101417Z",
+    "Creator": "Microsoft® Word LTSC",
+    "ModDate": "D:20261019113239Z",
+    "Producer": "Microsoft® Word LTSC"
+  },
+  "download_origin_verified": false,
+  "reference_valid_from": null,
+  "reference_valid_until": null,
+  "currency": "XOF",
+  "currency_normalization": "FCFA explicite page PDF 87 ; contexte togolais sur la couverture. XOF est le code normalisé, absent du texte du PDF.",
+  "usage_context": "Référence pour l'évaluation de dépenses publiques ; source fournie par le porteur du projet.",
+  "product_tax_basis": "HT",
+  "tax_basis_pdf_page": 5,
+  "coverage": {
+    "taxonomy": "all_chapters",
+    "price_rows": "automotive_only",
+    "published": false
+  },
+  "extractor": {
+    "script_sha256": "71d16332c9319ce8b59daa8e42507894c6152736e68c17b5084d51b51bee87ff",
+    "profile_sha256": "f99de170a0ab27a211843d36b8744d8804577cc4053776a803ff58d628c95f2e",
+    "pdfplumber": "0.11.9",
+    "pdftotext": "pdftotext version 26.01.0"
+  },
+  "artifacts": [
+    {
+      "path": "automotive.csv",
+      "sha256": "d7ecffe4ea53fd0e6f8b648c0b484c72bd17e49df7cb3b7045b1c296eeb3b937",
+      "byte_size": 87763
+    },
+    {
+      "path": "automotive.json",
+      "sha256": "ed878738eab34e465f3d3f9146058217b7a9e4e056ef955ec2d417c3ce996e87",
+      "byte_size": 444781
+    },
+    {
+      "path": "automotive.sample.csv",
+      "sha256": "2da83f6b25b15619f9a988e437db6e316d0ed4bfd422e8e0d72418b9a40511aa",
+      "byte_size": 8349
+    },
+    {
+      "path": "automotive.sample.json",
+      "sha256": "799ba233585f7e5463edf8828c09c0668d1db4f6a9e19332261796ced895008b",
+      "byte_size": 48325
+    },
+    {
+      "path": "quality-report.json",
+      "sha256": "d17553cffce627b14a2f67e19f0ae176833ed427da41f960b00d4a926adebc64",
+      "byte_size": 2615
+    },
+    {
+      "path": "raw/automotive.jsonl",
+      "sha256": "7b035c5e0d02529d1373481014dbecc1f927bb769ebdbd35f3e563a25317a068",
+      "byte_size": 226115
+    },
+    {
+      "path": "raw/pages/page-0004.txt",
+      "sha256": "d58e6d9c12979aefa6a8af09089eb1567c82130500fdc57eea1b4b20716bfb83",
+      "byte_size": 4031
+    },
+    {
+      "path": "raw/pages/page-0005.txt",
+      "sha256": "1da75f81ad6648bf1de99d2903f1b63cce4d83e54df9ed4d92f24bd915237f52",
+      "byte_size": 3007
+    },
+    {
+      "path": "raw/pages/page-0087.txt",
+      "sha256": "c29aaa7f697f33f3e7d05ec0cd7eb7bface083ca6cf5bada83a83e31690cb84b",
+      "byte_size": 3402
+    },
+    {
+      "path": "raw/pages/page-0491.txt",
+      "sha256": "107e54b590c077b1ccdd696587e3edc76a6f964734504009a32486c8011a8c2c",
+      "byte_size": 193
+    },
+    {
+      "path": "raw/pages/page-0492.txt",
+      "sha256": "98b4a5553050ac25b276f3e7b7a2b04eb92e2ec9e58da2cfe319719c5a250821",
+      "byte_size": 3494
+    },
+    {
+      "path": "raw/pages/page-0493.txt",
+      "sha256": "5dadeaf4a6ffde0979bf4d68cb322059fcec1a26263f9d92bda7744d6adc1684",
+      "byte_size": 3121
+    },
+    {
+      "path": "raw/pages/page-0494.txt",
+      "sha256": "827159fb0df355fc9b87de7322f92aa3707a2c8f88374b6cf74aa55f9361f1dd",
+      "byte_size": 3102
+    },
+    {
+      "path": "raw/pages/page-0495.txt",
+      "sha256": "baf7204a6e4f7a43e58192e35c4df3ce6ea11b890dde1a0b378ec0bda8ee4124",
+      "byte_size": 2841
+    },
+    {
+      "path": "raw/pages/page-0496.txt",
+      "sha256": "f192975604ff8ba851f135baf0900c9562458b77b139ea6196a2c629809b4670",
+      "byte_size": 3222
+    },
+    {
+      "path": "raw/pages/page-0497.txt",
+      "sha256": "281e4cb35cf52ba90ab1622161e268e0ae72e5efa5898370dcf72c3d496e2038",
+      "byte_size": 3045
+    },
+    {
+      "path": "raw/pages/page-0498.txt",
+      "sha256": "a648a09fd6e795bafbd43d016b06172f3b1841fb1aa346b0d29b9c442863ff41",
+      "byte_size": 2813
+    },
+    {
+      "path": "raw/pages/page-0499.txt",
+      "sha256": "ebf7324007d2ad4ee1f4d7f8f271a8e0e014d21d926534daf5afe589bc8bae5d",
+      "byte_size": 3276
+    },
+    {
+      "path": "raw/pages/page-0500.txt",
+      "sha256": "863022e2a4ce9db053b398b4b7574ba45e7b38f6731a10081f3ee0165e2675c0",
+      "byte_size": 2801
+    },
+    {
+      "path": "raw/pages/page-0501.txt",
+      "sha256": "54fb8ed939520b60feda026992256fc25ce58fe3771cf84843eef95335ecf89f",
+      "byte_size": 3251
+    },
+    {
+      "path": "raw/pages/page-0502.txt",
+      "sha256": "644554f3652196b4daca618fdb7651029600e2cd254230f2a7475dd5dfb48544",
+      "byte_size": 3085
+    },
+    {
+      "path": "raw/pages/page-0503.txt",
+      "sha256": "81be75e7e04dfb5b1e555c2ac011651fcdc17c2a897bcd3a3096523d5eaa8aaa",
+      "byte_size": 3320
+    },
+    {
+      "path": "raw/pages/page-0504.txt",
+      "sha256": "89c953f0987bf553d7f63f3644073a4c1f452079d6ad66d22299b997642f70cd",
+      "byte_size": 3079
+    },
+    {
+      "path": "raw/pages/page-0505.txt",
+      "sha256": "1a6ec2ae2d000c82b9eae49cd0a3b87b8509671d50dcc222f070fe68dd453077",
+      "byte_size": 2658
+    },
+    {
+      "path": "raw/pages/page-0506.txt",
+      "sha256": "68e0ec831177ec64bb64cfa03e0e2e636e56e4a6ef154a3f4caef058ba09bfea",
+      "byte_size": 2626
+    },
+    {
+      "path": "raw/pages/page-0507.txt",
+      "sha256": "247ac9df2dc57fd3994a92d2173c3f4cc699aa9f1f2a41c32eeb3400e97d0104",
+      "byte_size": 2199
+    },
+    {
+      "path": "raw/pages/page-0508.txt",
+      "sha256": "2f24a63e5fd798af7303d4206e88d04c6ea8d04f9b21f7389a62cb0701f11d62",
+      "byte_size": 3702
+    },
+    {
+      "path": "raw/pages/page-0509.txt",
+      "sha256": "40da136c2be190fae6ef74d5061794b8a1ef984d660529d2ac6fd7f49ec69560",
+      "byte_size": 3797
+    },
+    {
+      "path": "raw/pages/page-0510.txt",
+      "sha256": "ad4bb779e2bbc34d919c3252f0ebb04db348f26de5cdf9ac5b2aee61adcbf9fc",
+      "byte_size": 3846
+    },
+    {
+      "path": "raw/pages/page-0511.txt",
+      "sha256": "8725f4353441cc8d3ddf41e02ed82d5b904f36393dde1fb70a6775e4c5aafc63",
+      "byte_size": 3933
+    },
+    {
+      "path": "raw/pages/page-0512.txt",
+      "sha256": "4d8a6d3779cfb12053cf8e408992a847510bcf5f482c833c5cca1d3b34af0af5",
+      "byte_size": 1739
+    },
+    {
+      "path": "raw/taxonomy-headings.jsonl",
+      "sha256": "bd54f44188b574bba473e39dcca5df3cb29712bd32309e8b41fdd349c7933689",
+      "byte_size": 352495
+    },
+    {
+      "path": "review-queue.json",
+      "sha256": "e3f8068d871074955cceb0d2ed33e2f6757fe0ad9d6ee1fa3a27bb3b50eebf4a",
+      "byte_size": 53271
+    },
+    {
+      "path": "taxonomy.json",
+      "sha256": "55fe873d93a3c47224f932c544b73c07b8edc7bde8d13d05b24a21edd6492bbe",
+      "byte_size": 290060
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿id;groupe_echantillon;numero_source;famille_ordre;famille_code;famille;contexte_source;designation;unite_source;unite_normalisee;pm;li;ls;devise;base_fiscale;page_pdf;page_imprimee;etat_revue;anomalies;publie
+togo-reference-prices-2026-01:p0494:t03:r001;batteries;5941;0508;614428;Batteries;;Batterie 12 V 150AH Blindée;Unité;unite;135000;101250;168750;XOF;HT;494;364;ready_for_review;;false
+togo-reference-prices-2026-01:p0494:t03:r004;batteries;5944;0508;614428;Batteries;;Batterie Blindée 100 AH CFAO;Unité;unite;108019;81014;135024;XOF;HT;494;364;ready_for_review;;false
+togo-reference-prices-2026-01:p0494:t03:r007;batteries;5947;0508;614428;Batteries;;Batterie Blindée 75 AH Original;Unité;unite;80243;60182;100304;XOF;HT;494;364;ready_for_review;;false
+togo-reference-prices-2026-01:p0494:t03:r011;batteries;5951;0508;614428;Batteries;;Batterie pour voiture 12V100 AH de marque: VASWORLD POWER;Pièce;piece;56582;42436;70727;XOF;HT;494;364;ready_for_review;;false
+togo-reference-prices-2026-01:p0494:t03:r012;batteries;5952;0508;614428;Batteries;;Batterie pour voiture 12V100AH de marque: DELTA;Pièce;piece;88987;66741;111234;XOF;HT;494;364;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r015;batteries;6208;0553;;Autres entretiens;BATTERIES;Batteries 100 AH 12 V;Unité;unite;89900;67425;112375;XOF;HT;509;379;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r016;batteries;6209;0553;;Autres entretiens;BATTERIES;Batteries 90 AH 12 V;Unité;unite;84100;63075;105125;XOF;HT;509;379;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r017;batteries;6210;0553;;Autres entretiens;BATTERIES;Batteries 75 AH 12 V;Unité;unite;65250;48938;81563;XOF;HT;509;379;ready_for_review;;false
+togo-reference-prices-2026-01:p0499:t01:r001;filtres;6017;0524;614533;Filtres (à air, à gasoil, à essence, à huile, à pollen, etc.);;Filtre à air NISSAN 4x4;Unité;unite;39093;29320;48866;XOF;HT;499;369;ready_for_review;;false
+togo-reference-prices-2026-01:p0499:t01:r005;filtres;6021;0524;614533;Filtres (à air, à gasoil, à essence, à huile, à pollen, etc.);;Filtre à clim Original CFAO HILUX 5L 4X4 Original;Unité;unite;30657;22993;38321;XOF;HT;499;369;ready_for_review;;false
+togo-reference-prices-2026-01:p0499:t01:r012;filtres;6028;0524;614533;Filtres (à air, à gasoil, à essence, à huile, à pollen, etc.);;Filtres à air 5L 2006-2010 HILUX 5L 4X4 Original;Unité;unite;40944;30708;51181;XOF;HT;499;369;ready_for_review;;false
+togo-reference-prices-2026-01:p0499:t01:r015;filtres;6031;0524;614533;Filtres (à air, à gasoil, à essence, à huile, à pollen, etc.);;Filtres à air 5L 2018-2020 HILUX 5L 4X4 Original CFAO;Unité;unite;84358;63268;105447;XOF;HT;499;369;ready_for_review;;false
+togo-reference-prices-2026-01:p0499:t01:r023;filtres;6039;0524;614533;Filtres (à air, à gasoil, à essence, à huile, à pollen, etc.);;Filtres à huile 5L 2018-2020 Original CFAO;Unité;unite;20369;15277;25462;XOF;HT;499;369;ready_for_review;;false
+togo-reference-prices-2026-01:p0508:t01:r001;filtres;6164;0553;;Autres entretiens;CHERY;Filtres à huile;Unité;unite;12325;9244;15406;XOF;HT;508;378;ready_for_review;;false
+togo-reference-prices-2026-01:p0511:t01:r014;filtres;6278;0553;;Autres entretiens;HILUX 2018;Filtre à gaz oïl (0L041);Unité;unite;14500;10875;18125;XOF;HT;511;381;ready_for_review;;false
+togo-reference-prices-2026-01:p0511:t01:r024;filtres;6288;0553;;Autres entretiens;PEUGEOT LANDTREK;Filtre à air;Unité;unite;20600;15450;25750;XOF;HT;511;381;ready_for_review;;false
+togo-reference-prices-2026-01:p0493:t04:r001;amortisseurs;5926;0505;614412;Amortisseurs (arrière, avant droit, avant gauche);;Amortisseur arrière (jeu) HIGHLANDER;Ensemble;ensemble;63783;47837;79729;XOF;HT;493;363;ready_for_review;;false
+togo-reference-prices-2026-01:p0493:t04:r002;amortisseurs;5927;0505;614412;Amortisseurs (arrière, avant droit, avant gauche);;Amortisseur arrire (jeu) RAV 4;Ensemble;ensemble;59668;44751;74585;XOF;HT;493;363;ready_for_review;;false
+togo-reference-prices-2026-01:p0493:t04:r005;amortisseurs;5930;0505;614412;Amortisseurs (arrière, avant droit, avant gauche);;Jeu d'amortisseurs arrière Toyota HiluX;paire;paire;142483;106862;178103;XOF;HT;493;363;ready_for_review;;false
+togo-reference-prices-2026-01:p0493:t04:r006;amortisseurs;5931;0505;614412;Amortisseurs (arrière, avant droit, avant gauche);;Jeu d'amortisseurs avant;Paire;paire;266201;199651;332751;XOF;HT;493;363;ready_for_review;;false
+togo-reference-prices-2026-01:p0508:t01:r023;amortisseurs;6185;0553;;Autres entretiens;TOYOTA PRADO D4D;Amortisseur AV;Unité;unite;87000;65250;108750;XOF;HT;508;378;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r007;amortisseurs;6200;0553;;Autres entretiens;DUSTER;Amortisseur AR;Unité;unite;98600;73950;123250;XOF;HT;509;379;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r027;amortisseurs;6220;0553;;Autres entretiens;TOYOTA FORTUNER 5L;Amortisseur AV (paire);Unité;unite;94250;70688;117813;XOF;HT;509;379;needs_review;UNIT_PACKAGING_AMBIGUOUS;false
+togo-reference-prices-2026-01:p0510:t01:r007;amortisseurs;6235;0553;;Autres entretiens;TOYOTA FORTUNER D4D;Amortisseur AR (paire);Unité;unite;94250;70688;117813;XOF;HT;510;380;needs_review;UNIT_PACKAGING_AMBIGUOUS;false
+togo-reference-prices-2026-01:p0492:t02:r001;huiles;5904;0499;601152;Huile ATF;;Huile ATF CAP;1l;litre;4938;3704;6173;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0492:t03:r001;huiles;5905;0500;601155;Huile à moteur;;CAP TAURUS 10W40 5l;Bidon de 5L;bidon_5_litres;19500;14625;24375;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0492:t03:r004;huiles;5908;0500;601155;Huile à moteur;;CAP TAURUS SW40 5l;Bidon de 5L;bidon_5_litres;23000;17250;28750;XOF;HT;492;362;needs_review;OIL_GRADE_TO_REVIEW;false
+togo-reference-prices-2026-01:p0492:t03:r007;huiles;5911;0500;601155;Huile à moteur;;SHELL Helix HX3 SAE 50;Bidon de 5L;bidon_5_litres;12000;9000;15000;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0492:t03:r010;huiles;5914;0500;601155;Huile à moteur;;SHELL Helix Ultra 5W40;Bidon de 5L;bidon_5_litres;16000;12000;20000;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0492:t03:r014;huiles;5918;0500;601155;Huile à moteur;;TOTAL quartz 9000 5W40;Bidon de 5L;bidon_5_litres;25850;19388;32313;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0492:t04:r001;huiles;5919;0501;601156;Huile à pont;;Huile de total quartz 9000;1l;litre;15251;11439;19064;XOF;HT;492;362;ready_for_review;;false
+togo-reference-prices-2026-01:p0500:t02:r003;huiles;6052;0526;614549;Huile (de direction, à boîte, à moteur, à pont, compresseur);;Huile à pont;5litres;5_litres;47117;35338;58896;XOF;HT;500;370;ready_for_review;;false
+togo-reference-prices-2026-01:p0503:t04:r001;pneus;6099;0539;614615;Pneu;;Pneu 195/65 R15 Marque MICHELIN;Unité;unite;66869;50152;83586;XOF;HT;503;373;needs_review;POSSIBLE_DUPLICATE_SPECIFICATION;false
+togo-reference-prices-2026-01:p0503:t04:r002;pneus;6100;0539;614615;Pneu;;Pneu 205/55/R16 91W;1 unité;unite;134767;101075;168459;XOF;HT;503;373;ready_for_review;;false
+togo-reference-prices-2026-01:p0503:t04:r007;pneus;6105;0539;614615;Pneu;;Pneu 225/70 R17 marque MICHELIN;unité;unite;113163;84872;141454;XOF;HT;503;373;needs_review;POSSIBLE_DUPLICATE_SPECIFICATION;false
+togo-reference-prices-2026-01:p0504:t01:r008;pneus;6116;0539;614615;Pneu;;Pneu automobile 205 R16 C marque: JOYROAD;Pièce;piece;108019;81014;135024;XOF;HT;504;374;ready_for_review;;false
+togo-reference-prices-2026-01:p0504:t01:r015;pneus;6123;0539;614615;Pneu;;Pneu Michelin 195/65 R15;Unité;unite;91559;68669;114449;XOF;HT;504;374;needs_review;POSSIBLE_DUPLICATE_SPECIFICATION;false
+togo-reference-prices-2026-01:p0504:t01:r017;pneus;6125;0539;614615;Pneu;;Pneus 205R16C Bridgestone;Unité;unite;183890;137918;229863;XOF;HT;504;374;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r019;pneus;6212;0553;;Autres entretiens;PNEUS;256/65 R 17 Toyota Prado;Unité;unite;181250;135938;226563;XOF;HT;509;379;ready_for_review;;false
+togo-reference-prices-2026-01:p0509:t01:r021;pneus;6214;0553;;Autres entretiens;PNEUS;215/65 Chrysler;Unité;unite;166750;125063;208438;XOF;HT;509;379;needs_review;TYRE_DIMENSIONS_INCOMPLETE;false

@@ -1,0 +1,160 @@
+{
+  "source_id": "togo-reference-prices-2026-01",
+  "source_sha256": "5e49ab8ebc74c4bc26485949730d4435f4f3d564d3f7673bf37200456c63d416",
+  "expected": {
+    "groups": 24,
+    "families": 578,
+    "entries": 419,
+    "issues": 87,
+    "flagged_entries": 85,
+    "units": 11,
+    "published_prices": 0
+  },
+  "files": [
+    {
+      "path": "000_prepare_source.sql",
+      "characters": 33496,
+      "sha256": "a192b63711df56915293f99f38da8e7e9cd0a0d2d0014b66e0bcbf0144e76929"
+    },
+    {
+      "path": "001_families_001.sql",
+      "characters": 23270,
+      "sha256": "25d1c9526216a199d7b29cabca49fdecb2c002d522e6df142a091897d058df0d"
+    },
+    {
+      "path": "002_families_002.sql",
+      "characters": 22973,
+      "sha256": "2077fcbd1e5937f2fc58b8502e8be642888e3aac62bab5216c306f318333af40"
+    },
+    {
+      "path": "003_families_003.sql",
+      "characters": 23205,
+      "sha256": "c4c5761cc6456bda32ae26fffc2f0f36255c31c7cf3fe702c68e3945ec06cee3"
+    },
+    {
+      "path": "004_families_004.sql",
+      "characters": 23147,
+      "sha256": "feab327f30549d192c90f09f4e25f0d175d79442e5b40f6e57f6e174b0d04a5d"
+    },
+    {
+      "path": "005_families_005.sql",
+      "characters": 23193,
+      "sha256": "24bfcb61bee6fbc4d469d6a85ca8840fd0eacbd4faaabaccc89c9016615e1286"
+    },
+    {
+      "path": "006_families_006.sql",
+      "characters": 23317,
+      "sha256": "1121e5d6e2f13916baadf94c1cf68500e3138d362f6958daedfe52686bb0202d"
+    },
+    {
+      "path": "007_families_007.sql",
+      "characters": 23200,
+      "sha256": "58024944fca0b0560653a8f39d393c3aa68217f74d0cccfcbf381b03342ac0d0"
+    },
+    {
+      "path": "008_families_008.sql",
+      "characters": 17133,
+      "sha256": "fa481720cb865f6845008e1ad4beda7f88340b32e6f19b32c0e1bce8d5f5492e"
+    },
+    {
+      "path": "009_entries_001.sql",
+      "characters": 23465,
+      "sha256": "1089a3f0eb48a6bb98622870e83481a20b3344804bdacf8f6c0477372216632c"
+    },
+    {
+      "path": "010_entries_002.sql",
+      "characters": 23361,
+      "sha256": "c6edced59fddc797c97d8ffc2def1cf44491bdbecb1d89d88f91a3f1ce541a91"
+    },
+    {
+      "path": "011_entries_003.sql",
+      "characters": 23262,
+      "sha256": "82b82c4e43e2bb34ad50598eded7ca83f9fd2624b1a72f088ee42f20b3be8cf4"
+    },
+    {
+      "path": "012_entries_004.sql",
+      "characters": 23101,
+      "sha256": "9f69bceb61e2e1db8539ba5fda12ff4befd74fcfa2da9d8c53cbb7871dd95222"
+    },
+    {
+      "path": "013_entries_005.sql",
+      "characters": 22902,
+      "sha256": "b0f06032fbfb6ad27ee470842c7e782fce7f0930acd8ca1b178e8810c64439d0"
+    },
+    {
+      "path": "014_entries_006.sql",
+      "characters": 23294,
+      "sha256": "d881ec7240e4de84e4ce0c0b91035724278b8122110a16300e228e51f673e3e3"
+    },
+    {
+      "path": "015_entries_007.sql",
+      "characters": 22994,
+      "sha256": "b259b305ed482cffdc64ada9b5928f4fc9a93b193b4abf12210cd4a2a4686cf7"
+    },
+    {
+      "path": "016_entries_008.sql",
+      "characters": 23239,
+      "sha256": "91aa8a26e84b50470558c073d2a5d40699933a5698762121e7c03c4f76ed0c99"
+    },
+    {
+      "path": "017_entries_009.sql",
+      "characters": 22804,
+      "sha256": "dd6d9b58fd68bf3ed23e471041dfb9985370735f67e5a3ef6c56c441e5435afa"
+    },
+    {
+      "path": "018_entries_010.sql",
+      "characters": 23152,
+      "sha256": "38b9769e6a10ec48b9d3c58e718f28db015661a905b2439497d7f63b32a1ebf5"
+    },
+    {
+      "path": "019_entries_011.sql",
+      "characters": 22795,
+      "sha256": "27cb8d03ce74d559865dd16b2efa178cb0d4190287d6851d626d91cd26ffe7e9"
+    },
+    {
+      "path": "020_entries_012.sql",
+      "characters": 23430,
+      "sha256": "28b01b7b0bff12589246422c0b56a26c4240739790e6b044f92d99056c266212"
+    },
+    {
+      "path": "021_entries_013.sql",
+      "characters": 23191,
+      "sha256": "7b3d10eaadb9651256e8e6229e2a36c971e16d40d5cd1a74c7dc1b6329571c5f"
+    },
+    {
+      "path": "022_entries_014.sql",
+      "characters": 22992,
+      "sha256": "688b64f5169a84976ee6e34ecbafe48df67a6b2025a2d621415878f60adb8d20"
+    },
+    {
+      "path": "023_entries_015.sql",
+      "characters": 22853,
+      "sha256": "1ad0199ad39d7a5e87f0c2ff627ca891558b57454d7e578fddce264484854883"
+    },
+    {
+      "path": "024_entries_016.sql",
+      "characters": 23469,
+      "sha256": "2127414556278b10ec36e81a2c54fa6d314d9061d4bde1c92d2e22f3a2a806b9"
+    },
+    {
+      "path": "025_entries_017.sql",
+      "characters": 23275,
+      "sha256": "4ed96d9934d38a4d7b5054500c9696aac56af8662d34c0d8615227fcec82597f"
+    },
+    {
+      "path": "026_entries_018.sql",
+      "characters": 2487,
+      "sha256": "c3879fd3fbafd50cb30908cfc2acfb78b7878b2856b1ddd13303f415005e47c7"
+    },
+    {
+      "path": "027_issues_001.sql",
+      "characters": 16734,
+      "sha256": "adb58874879351cd2f34b2d0b5c1a7fcd45ecaae2a444fd6b41770dc0aff8da8"
+    },
+    {
+      "path": "028_complete_import.sql",
+      "characters": 1373,
+      "sha256": "7dc341b99a7f530ec76b1d6307973cbe4afa1f30e02e3f7c758bd33f49260e27"
+    }
+  ]
+}

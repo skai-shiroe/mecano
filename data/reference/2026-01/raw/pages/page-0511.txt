@@ -1,0 +1,47 @@
+Entretien, réparation et maintenance de véhicules
+                                 0553 - Autres entretiens
+                                                                              National
+ N°                       Désignations                       Unités
+                                                                        PM      LI      LS
+6265 Jeux de biellette AV                                    Unité     53 650 40 238 67 063
+6266 Jeux de biellette AR                                    Unité     50 750 38 063 63 438
+6267 Jeux de silent blocs inférieur                          Unité     31 900 23 925 39 875
+6268 Jeux de silent blocs supérieur                          Unité     26 100 19 575 32 625
+6269 Jeux de globe phare                                     Unité    159 500 119 625 199 375
+6270 Jeux de feu arrière                                     Unité     72 500 54 375 90 625
+6271 Jeux de rotules supérieur                               Unité     50 750 38 063 63 438
+6272 Jeux de rotules inférieure                              Unité     47 850 35 888 59 813
+6273 Démarreur 5L                                            Unité    379 900 284 925 474 875
+6274 Pochette de joints D4D                                  Unité     94 250 70 688 117 813
+6275 Pochette de joints 5L                                   Unité     69 600 52 200 87 000
+6276 Plaquette AV                                            Unité     50 750 38 063 63 438
+6277 Filtres à huile                                         Unité     11 600   8 700 14 500
+6278 Filtre à gaz oïl (0L041)                                Unité     14 500 10 875 18 125
+6279 Filtre à gaz oïl (0L070)                                Unité     14 500 10 875 18 125
+6280 Filtre à pollen                                         Unité     18 125 13 594 22 656
+6281 Ecrou gourgeon complet                                  Unité      5 075   3 806   6 344
+                                       PEUGEOT LANDTREK
+6282 Jeux de plaquette AV                                    Unité 50 750 38 063 63 438
+6283 Jeux de garniture AR                                    Unité 68 150 51 113 85 188
+6284 Amortisseur AV                                          Unité 239 250 179 438 299 063
+6285 Biellette (jeux) AV                                     Unité 46 400 34 800 58 000
+6286 Filtre à huile                                          Unité 37 700 28 275 47 125
+6287 Filtre à gaz oïl                                        Unité 21 025 15 769 26 281
+6288 Filtre à air                                            Unité 20 600 15 450 25 750
+6289 Kit d’embrayage                                         Unité 69 600 52 200 87 000
+6290 Cylindre émetteur d’embrayage                           Unité 94 250 70 688 117 813
+6291 Cylindre récepteur d’embrayage                          Unité 94 250 70 688 117 813
+                                             AZERA
+6292 Filtre à huile                                          Unité     12 325    9 244   15 406
+6293 Jeux de plaquette AR                                    Unité     40 600   30 450   50 750
+6294 Jeux de plaquette AV                                    Unité     37 700   28 275   47 125
+6295 Jeux de Biellette                                       Unité     40 600   30 450   50 750
+6296 Jeux de rotule sous amortisseur                         Unité     60 900   45 675   76 125
+                                             DIVERS
+6297 Colle bleu                                              Unité      2 175    1 631    2 719
+6298 Colle hermétique                                        Unité      2 175    1 631    2 719
+     Collier de serrage de tuyaux (4 différent diamètre du
+6299                                                         Unité     12 325    9 244   15 406
+     plus petit)
+
+                                              381

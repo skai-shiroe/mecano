@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mecano",
-    "slug": "mecano",
+    "name": "Check",
+    "slug": "check",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mecano",
+    "scheme": "check",
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
@@ -33,7 +33,10 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-dev-client",
+      "expo-system-ui",
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true

@@ -1,0 +1,47 @@
+2. Méthodologie pratique d’usage
+
+Cette édition intègre pour chaque article, un intervalle de prix délimité par une limite inférieure (LI) et
+une limite supérieure (LS). Les utilisateurs ne sont pas autorisés à dépasser la limite supérieure dans leur
+évaluation et dans leur proposition de prix. Quant à la limite inférieure, elle constitut la limite en dessous
+de laquelle, les prix proposés peuvent faire l’objet d’une analyse de leur viabilité économique.
+Les acteurs de la chaîne des dépenses publiques sont tenus de recourir aux indications de prix du
+répertoire lors de l’évaluation des dépenses liées aux commandes des biens, services et travaux.
+Pour chaque produit commandé, l’utilisateur identifiera au préalable la famille à laquelle celui-ci se
+rapporte en consultant la table de présentation des familles et leur contenu numéroté et paginé. A la page
+de présentation détaillée des articles, l’utilisateur identifiera le produit recherché en se référant au
+numéro de la ligne et appliquera un prix compris dans l’intervalle de prix correspondant. Toutefois, il
+devra tenir compte du fait que les prix sont fixés hors taxes (HT) pour les produits. La reconstitution des
+prix TTC se fera en ajoutant la TVA au prix HT aux produits assujettis.
+Légende de lecture dans l’intervalle de prix :
+PM = Prix Moyen
+LI = Limite Inférieure
+LS = Limite Supérieure
+
+3. Cas des prix des travaux, fournitures et services non recensés dans le répertoire des
+prix
+
+Pour ce qui concerne les travaux, fournitures et services non recensés dans la mercuriale, les prix à
+retenir sont ceux correspondants à la moyenne de trois prix collectés sur le territoire national.
+
+4. Application assistée
+
+Le répertoire des prix au format numérique (PDF) est accessible et téléchargeable sur les sites
+http//www.finances.gouv.tg et http://www.dncf-togo.org.
+Cette version est également accessible à travers les terminaux mobiles (smartphone et tablettes)
+disponible dans le Play Store et App Store sous le label « Répertoire des Prix – Togo ». Après
+son installation, la recherche du prix d’un article est facilitée par mots clés ou par une recherche
+des articles par famille.
+Un moteur de recherche spécifiquement conçu, est directement accessible sur le site web de la
+direction nationale du contrôle financier à travers ce lien : https://dncf-togo.org/mercuriale.
+
+Pour toute difficulté dans l’utilisation du Répertoire des Prix ou pour des informations
+complémentaires, l’utilisateur est prié de s’adresser au secrétariat technique du Comité du
+répertoire des prix sis au Centre Administratif des Services Economiques et Financiers
+(CASEF), 1er étage, bureau 144, Tél : 22 21 25 47, BP 1766 Lomé.
+
+
+
+
+         BP :387 Lomé, Tél. : (00 228) 22 21 35 54 / 22 21 01 38, FAX : (00 228) 22 21 09 05
+                          E-mail : secretariat.ministre@economie.gouv.tg
+                                                     iv

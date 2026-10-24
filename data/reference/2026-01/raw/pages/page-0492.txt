@@ -1,0 +1,52 @@
+Entretien, réparation et maintenance de véhicules
+
+
+           0498 - Famille [ 601150 ] Carburant (super sans plomb/gaz oïl)
+                                                                                    National
+      N°                 Désignations                        Unités
+                                                                               PM          LI        LS
+  5 900      Gaz oïl                                         Litre                750       695          695
+  5901       Super sans plomb                                Litre                725       680          680
+  5902       Mélange 2 temps                                 Litre                811       769          769
+  5903       Pétrole lampant                                 Litre              1 040       650          650
+
+
+
+                          0499 - Famille [ 601152 ] Huile ATF
+                                                                                National
+   N°               Désignations                    Unités
+                                                                      PM            LI              LS
+  5904      Huile ATF CAP                             1l                4 938         3 704         6 173
+
+
+
+                       0500 - Famille [ 601155 ] Huile à moteur
+                                                                                         National
+ N°                       Désignations                                Unités
+                                                                                 PM        LI        LS
+5905 CAP TAURUS 10W40 5l                                         Bidon de 5L 19 500 14 625 24 375
+5906 CAP TAURUS 15W40 5l                                         Bidon de 5L 16 000 12 000 20 000
+5907 CAP TAURUS SAE50 5l                                         Bidon de 5L 14 000 10 500 17 500
+5908 CAP TAURUS SW40 5l                                          Bidon de 5L 23 000 17 250 28 750
+5909 CAP TAURUS SW30 5l                                          Bidon de 5L 25 000 18 750 31 250
+5910 CAP TAURUS SW20 5l                                          Bidon de 5L 28 000 21 000 35 000
+5911 SHELL Helix HX3 SAE 50                                      Bidon de 5L 12 000        9 000 15 000
+5912 SHELL Helix HX5 15W40                                       Bidon de 5L 16 000 12 000 20 000
+5913 SHELL Helix HX7 10W40                                       Bidon de 5L 25 000 18 750 31 250
+5914 SHELL Helix Ultra 5W40                                      Bidon de 5L 16 000 12 000 20 000
+5915 TOTAL quartz 5000 15W40                                     Bidon de 5L 18 500 13 875 23 125
+5916 TOTAL quartz 7000 10W40                                     Bidon de 5L 23 000 17 250 28 750
+5917 TOTAL quartz 9000 5W30                                      Bidon de 5L 29 400 22 050 36 750
+5918 TOTAL quartz 9000 5W40                                      Bidon de 5L 25 850 19 388 32 313
+
+
+
+                         0501 - Famille [ 601156 ] Huile à pont
+                                                                                         National
+ N°                         Désignations                               Unités
+                                                                                 PM        LI        LS
+5919 Huile de total quartz 9000                                          1l     15 251 11 439 19 064
+
+
+
+                                              362

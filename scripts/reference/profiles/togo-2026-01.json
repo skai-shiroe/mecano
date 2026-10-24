@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "source_id": "togo-reference-prices-2026-01",
+  "original_filename": "Repertoire_des_prix_2026.01.pdf",
+  "sha256": "5e49ab8ebc74c4bc26485949730d4435f4f3d564d3f7673bf37200456c63d416",
+  "byte_size": 22766101,
+  "page_count": 869,
+  "edition": "2026-01",
+  "edition_label_on_cover": "VERSION 2026 - 01",
+  "received_on": "2026-10-23",
+  "provenance": "Fichier fourni par le porteur du projet dans la conversation Check.",
+  "issuer_on_cover": "Ministère des Finances et du Budget - République togolaise",
+  "guide_page": 4,
+  "usage_page": 5,
+  "currency_context_page": 87,
+  "currency": "XOF",
+  "currency_normalization": "FCFA explicite page PDF 87 ; contexte togolais sur la couverture. XOF est le code normalisé, absent du texte du PDF.",
+  "declared_group_count": 24,
+  "declared_total_items": 13732,
+  "automotive": {
+    "group_number": 23,
+    "cover_page": 491,
+    "first_data_page": 492,
+    "last_data_page": 512,
+    "declared_items": 415,
+    "observed_rows": 419,
+    "first_item_number": 5900,
+    "last_item_number": 6314
+  },
+  "uncoded_sections": [
+    { "group_number": 23, "ordinal": "0553", "label": "Autres entretiens" }
+  ],
+  "sample": {
+    "batteries": [5941, 5944, 5947, 5951, 5952, 6208, 6209, 6210],
+    "filtres": [6017, 6021, 6028, 6031, 6039, 6164, 6278, 6288],
+    "amortisseurs": [5926, 5927, 5930, 5931, 6185, 6200, 6220, 6235],
+    "huiles": [5904, 5905, 5908, 5911, 5914, 5918, 5919, 6052],
+    "pneus": [6099, 6100, 6105, 6116, 6123, 6125, 6212, 6214]
+  }
+}

@@ -1,0 +1,53 @@
+Entretien, réparation et maintenance de véhicules
+
+  0524 - Famille [ 614533 ] Filtres (à air, à gasoil, à essence, à huile, à pollen,
+                                       etc.)
+                                                                         National
+ N°                        Désignations                   Unités
+                                                                    PM     LI        LS
+
+6017 Filtre à air NISSAN 4x4                              Unité    39 093 29 320    48 866
+6018 Filtre à air TOYOTA RAV 4                            Unité    40 636 30 477    50 795
+6019 Filtre à clim HILUX 5L 4X4 Original                  Unité    14 917 11 188    18 646
+6020 Filtre à clim NISSAN 4x4                             Unité    10 802 8 101     13 502
+6021 Filtre à clim Original CFAO HILUX 5L 4X4 Original    Unité    30 657 22 993    38 321
+6022 Filtre à clim TOYOTA RAV 4                           Unité    10 802 8 101     13 502
+6023 Filtre à essence NISSAN 4x4                          Unité     7 716 5 787      9 645
+6024 Filtre à essence TOYOTA RAV 4                        Unité     8 024 6 018     10 030
+6025 Filtre à gas-oil TOYOTA RAV 4                        Unité    19 135 14 351    23 919
+6026 Filtre à gaz oil                                     Unité    26 748 20 061    33 435
+6027 Filtre à huile                                       Unité    10 116 7 587     12 645
+6028 Filtres à air 5L 2006-2010 HILUX 5L 4X4 Original     Unité    40 944 30 708    51 181
+     Filtres à air 5L 2006-2010 HILUX 5L 4X4 Original
+6029                                                      Unité 80 243 60 182 100 304
+     CFAO
+6030 Filtres à air 5L 2018-2020 HILUX 5L 4X4 Original     Unité 54 524 40 893       68 155
+     Filtres à air 5L 2018-2020 HILUX 5L 4X4 Original
+6031                                                      Unité 84 358 63 268 105 447
+     CFAO
+     Filtres à gas-oil 5L 2018-2020 HILUX 5L 4X4
+6032                                                      Unité 27 262 20 447       34 078
+     Original
+     Filtres à gas-oil 5L 2018-2020 HILUX 5L 4X4
+6033                                                      Unité 37 550 28 162       46 937
+     Original CFAO
+6034 Filtres à gaz 5L 2006-2010 HILUX 5L 4X4 Original     Unité 19 135 14 351       23 919
+     Filtres à gaz 5L 2006-2010 HILUX 5L 4X4 Original
+6035                                                      Unité 30 605 22 955       38 257
+     CFAO
+6036 Filtres à huile 5L 2006-2010 HILUX 5L 4X4 Original   Unité 15 226 11 419       19 032
+     Filtres à huile 5L 2006-2010 HILUX 5L 4X4 Original
+6037                                                      Unité 20 369 15 277       25 462
+     CFAO
+6038 Filtres à huile 5L 2018-2020 HILUX 5L 4X4 Original   Unité 15 226 11 419       19 032
+
+6039 Filtres à huile 5L 2018-2020 Original CFAO           Unité 20 369 15 277       25 462
+
+6040 HILUX FILTRE A CARBURANT                             Unité 14 917 11 188       18 646
+6041 HILUX FILTRE A HUILE                                 Unité 14 403 10 802       18 003
+6042 HILUX FILTRE A POLLEN                                Unité 25 205 18 903       31 506
+
+
+
+
+                                              369

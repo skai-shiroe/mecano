@@ -1,0 +1,335 @@
+{
+  "source_id": "togo-reference-prices-2026-01",
+  "source_sha256": "5e49ab8ebc74c4bc26485949730d4435f4f3d564d3f7673bf37200456c63d416",
+  "reviewed_on": "2026-10-23",
+  "reviewer": "Codex",
+  "scope": "visual_transcription_check",
+  "publication_approval": false,
+  "method": "Comparaison visuelle des pages PDF rendues avec les désignations, unités, PM, LI, LS et contextes de l'échantillon extrait.",
+  "sample_sha256": "799ba233585f7e5463edf8828c09c0668d1db4f6a9e19332261796ced895008b",
+  "rendered_pdf_pages": [
+    492,
+    493,
+    494,
+    499,
+    500,
+    503,
+    504,
+    508,
+    509,
+    510,
+    511
+  ],
+  "checked_fields": [
+    "source_item_number",
+    "designation",
+    "unit_raw",
+    "prices.pm",
+    "prices.li",
+    "prices.ls",
+    "source.section"
+  ],
+  "records_checked": 40,
+  "transcription_mismatches": 0,
+  "unresolved_source_anomalies_preserved": true,
+  "limitations": [
+    "Les 419 lignes n'ont pas toutes fait l'objet d'une revue visuelle détaillée.",
+    "Le contrôle de transcription ne valide pas la référence constructeur, le stock, la compatibilité, la qualité ou l'actualité des prix."
+  ],
+  "records": [
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r001",
+      "source_item_number": "5941",
+      "pdf_page": 494,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r004",
+      "source_item_number": "5944",
+      "pdf_page": 494,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r007",
+      "source_item_number": "5947",
+      "pdf_page": 494,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r011",
+      "source_item_number": "5951",
+      "pdf_page": 494,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0494:t03:r012",
+      "source_item_number": "5952",
+      "pdf_page": 494,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r015",
+      "source_item_number": "6208",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r016",
+      "source_item_number": "6209",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r017",
+      "source_item_number": "6210",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r001",
+      "source_item_number": "6017",
+      "pdf_page": 499,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r005",
+      "source_item_number": "6021",
+      "pdf_page": 499,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r012",
+      "source_item_number": "6028",
+      "pdf_page": 499,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r015",
+      "source_item_number": "6031",
+      "pdf_page": 499,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0499:t01:r023",
+      "source_item_number": "6039",
+      "pdf_page": 499,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0508:t01:r001",
+      "source_item_number": "6164",
+      "pdf_page": 508,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0511:t01:r014",
+      "source_item_number": "6278",
+      "pdf_page": 511,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0511:t01:r024",
+      "source_item_number": "6288",
+      "pdf_page": 511,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r001",
+      "source_item_number": "5926",
+      "pdf_page": 493,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r002",
+      "source_item_number": "5927",
+      "pdf_page": 493,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r005",
+      "source_item_number": "5930",
+      "pdf_page": 493,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0493:t04:r006",
+      "source_item_number": "5931",
+      "pdf_page": 493,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0508:t01:r023",
+      "source_item_number": "6185",
+      "pdf_page": 508,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r007",
+      "source_item_number": "6200",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r027",
+      "source_item_number": "6220",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "UNIT_PACKAGING_AMBIGUOUS"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0510:t01:r007",
+      "source_item_number": "6235",
+      "pdf_page": 510,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "UNIT_PACKAGING_AMBIGUOUS"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t02:r001",
+      "source_item_number": "5904",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r001",
+      "source_item_number": "5905",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r004",
+      "source_item_number": "5908",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "OIL_GRADE_TO_REVIEW"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r007",
+      "source_item_number": "5911",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r010",
+      "source_item_number": "5914",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t03:r014",
+      "source_item_number": "5918",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0492:t04:r001",
+      "source_item_number": "5919",
+      "pdf_page": 492,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0500:t02:r003",
+      "source_item_number": "6052",
+      "pdf_page": 500,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r001",
+      "source_item_number": "6099",
+      "pdf_page": 503,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "POSSIBLE_DUPLICATE_SPECIFICATION"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r002",
+      "source_item_number": "6100",
+      "pdf_page": 503,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0503:t04:r007",
+      "source_item_number": "6105",
+      "pdf_page": 503,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "POSSIBLE_DUPLICATE_SPECIFICATION"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r008",
+      "source_item_number": "6116",
+      "pdf_page": 504,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r015",
+      "source_item_number": "6123",
+      "pdf_page": 504,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "POSSIBLE_DUPLICATE_SPECIFICATION"
+      ]
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0504:t01:r017",
+      "source_item_number": "6125",
+      "pdf_page": 504,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r019",
+      "source_item_number": "6212",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": []
+    },
+    {
+      "id": "togo-reference-prices-2026-01:p0509:t01:r021",
+      "source_item_number": "6214",
+      "pdf_page": 509,
+      "transcription": "matches_rendered_source",
+      "review_codes_preserved": [
+        "TYRE_DIMENSIONS_INCOMPLETE"
+      ]
+    }
+  ]
+}

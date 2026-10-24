@@ -1,0 +1,112 @@
+{
+  "source_id": "togo-reference-prices-2026-01",
+  "declared_automotive_items": 415,
+  "extracted_rows": 419,
+  "distinct_source_numbers": 415,
+  "extra_rows_from_reused_numbers": 4,
+  "missing_source_numbers": [],
+  "duplicate_source_numbers": [
+    {
+      "number": "6128",
+      "occurrences": 2,
+      "record_ids": [
+        "togo-reference-prices-2026-01:p0504:t02:r001",
+        "togo-reference-prices-2026-01:p0504:t03:r001"
+      ]
+    },
+    {
+      "number": "6133",
+      "occurrences": 3,
+      "record_ids": [
+        "togo-reference-prices-2026-01:p0505:t02:r001",
+        "togo-reference-prices-2026-01:p0505:t02:r002",
+        "togo-reference-prices-2026-01:p0505:t03:r001"
+      ]
+    },
+    {
+      "number": "6167",
+      "occurrences": 2,
+      "record_ids": [
+        "togo-reference-prices-2026-01:p0508:t01:r004",
+        "togo-reference-prices-2026-01:p0508:t01:r005"
+      ]
+    }
+  ],
+  "groups": 24,
+  "detailed_families": 578,
+  "automotive_families": 57,
+  "families_without_source_code": [
+    "group-23/family-0553-uncoded"
+  ],
+  "reused_family_ordinals": [
+    {
+      "group_id": "group-09",
+      "ordinal": "0201",
+      "families": [
+        "group-09/family-0201-244473",
+        "group-09/family-0201-244475"
+      ]
+    },
+    {
+      "group_id": "group-23",
+      "ordinal": "0518",
+      "families": [
+        "group-23/family-0518-614490",
+        "group-23/family-0518-614491"
+      ]
+    },
+    {
+      "group_id": "group-24",
+      "ordinal": "0573",
+      "families": [
+        "group-24/family-0573-606025",
+        "group-24/family-0573-606026"
+      ]
+    }
+  ],
+  "family_label_variants": [],
+  "rows_needing_review": 85,
+  "rows_ready_for_review": 334,
+  "published_rows": 0,
+  "sample_rows": 40,
+  "issues_by_code": {
+    "DUPLICATE_SOURCE_NUMBER": 7,
+    "FAMILY_CLASSIFICATION_REVIEW": 14,
+    "OIL_GRADE_TO_REVIEW": 3,
+    "PILOT_SCOPE_REVIEW": 13,
+    "POSSIBLE_DUPLICATE_SPECIFICATION": 4,
+    "PRICE_OUTSIDE_BOUNDS": 4,
+    "SERVICE_TAX_BASIS_REVIEW": 1,
+    "TYRE_DIMENSIONS_INCOMPLETE": 2,
+    "UNIT_PACKAGING_AMBIGUOUS": 39
+  },
+  "rows_by_pdf_page": {
+    "492": 20,
+    "493": 16,
+    "494": 18,
+    "495": 12,
+    "496": 12,
+    "497": 21,
+    "498": 18,
+    "499": 26,
+    "500": 15,
+    "501": 15,
+    "502": 14,
+    "503": 22,
+    "504": 22,
+    "505": 13,
+    "506": 14,
+    "507": 9,
+    "508": 31,
+    "509": 35,
+    "510": 36,
+    "511": 35,
+    "512": 15
+  },
+  "independent_check": {
+    "method": "pdfplumber geometry versus independent Poppler text",
+    "rows_checked": 419,
+    "price_triples_checked": 419,
+    "mismatches": 0
+  }
+}

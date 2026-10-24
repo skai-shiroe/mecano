@@ -1,0 +1,45 @@
+Entretien, réparation et maintenance de véhicules
+
+                                  0553 - Autres entretiens
+                                                                             National
+ N°                       Désignations                     Unités
+                                                                    PM         LI        LS
+                                               CHERY
+6164 Filtres à huile                                       Unité    12 325     9 244    15 406
+6165 Plaquette de frein AV                                 Unité    31 900    23 925    39 875
+6166 Plaquette de frein AR (garniture)                     Unité    46 400    34 800    58 000
+6167 Biellette de barre stabilisatrice                     Unité    29 000    21 750    36 250
+                                              CHRYSLER
+6167 Filtres à huile                                       Unité    17 400    13 050    21 750
+6168 Plaquette de frein AV                                 Unité    46 400    34 800    58 000
+6169 Plaquette de frein AR (garniture)                     Unité    55 100    41 325    68 875
+6170 Biellette de barre stabilisatrice                     Unité    46 400    34 800    58 000
+                                            NISSAN KICKS
+6171 Filtres à huile                                       Unité    12 325     9 244    15 406
+6172 Plaquette de frein AV                                 Unité    34 800    26 100    43 500
+6173 Plaquette de frein AR (garniture)                     Unité    46 400    34 800    58 000
+6174 Biellette de barre stabilisatrice                     Unité    31 900    23 925    39 875
+                                             DONGFENG
+6175 Filtres à huile                                       Unité    13 030     9 773    16 288
+6176 Filtre à gaz oïl                                      Unité    31 900    23 925    39 875
+6177 AdBlue (L)                                            Unité     6 525     4 894     8 156
+6178 Plaquette de frein AV                                 Unité    40 600    30 450    50 750
+6179 Plaquette de frein AR                                 Unité    23 200    17 400    29 000
+6180 Garniture de frein de stationnement                   Unité    55 100    41 325    68 875
+                                            TOYOTA CAMRY
+6181 Plaquette de frein AV                                 Unité    26 100    19 575    32 625
+6182 Plaquette de frein AR                                 Unité    23 200    17 400    29 000
+6183 Filtres à huile                                       Unité     9 425     7 069    11 781
+6184 Eléments filtrant                                     Unité    23 200    17 400    29 000
+                                       TOYOTA PRADO D4D
+6185 Amortisseur AV                                        Unité    87 000    65 250 108 750
+6186 Amortisseur AR                                        Unité    65 250    48 938 81 563
+6187 Biellette de barre stabilisatrice                     Unité    29 000    21 750 36 250
+6188 Silent blocs de barre stabilisatrice                  Unité    13 050     9 788 16 313
+6189 Rotules de bras inferieur                             Unité    37 700    28 275 47 125
+6190 Rotules de bras supérieur                             Unité    34 800    26 100 43 500
+6191 Rotule de direction                                   Unité    40 600    30 450 50 750
+6192 Plaquette de frein AV                                 Unité    26 100    19 575 32 625
+6193 Plaquette de frein AR                                 Unité    23 200    17 400 29 000
+
+                                               378

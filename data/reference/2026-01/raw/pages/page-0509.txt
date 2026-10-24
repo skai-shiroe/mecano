@@ -1,0 +1,45 @@
+Entretien, réparation et maintenance de véhicules
+                                 0553 - Autres entretiens
+                                                                           National
+ N°                       Désignations                    Unités
+                                                                     PM      LI      LS
+6194 Garniture de frein de stationnement                  Unité     46 400 34 800 58 000
+6195 Kit d’embrayage                                      Unité    355 250 266 438 444 063
+6196 Démarreur                                            Unité    319 000 239 250 398 750
+6197 Filtres à huile                                      Unité      9 425   7 069 11 781
+6198 Filtre à gaz oïl                                     Unité     12 325   9 244 15 406
+                                             DUSTER
+6199 Amortisseur AV                                       Unité 123 250 92 438 154 063
+6200 Amortisseur AR                                       Unité 98 600 73 950 123 250
+6201 Plaquette de frein                                   Unité 26 100 19 575 32 625
+6202 Garniture de frein                                   Unité 46 400 34 800 58 000
+6203 Biellette de barre stabilisatrice                    Unité 31 900 23 925 39 875
+6204 Galet de courroie                                    Unité 65 250 48 938 81 563
+6205 Kit d’embrayage                                      Unité 203 000 152 250 253 750
+6206 Butée d’embrayage                                    Unité 65 250 48 938 81 563
+6207 Cylindre émetteur d’embrayage                        Unité 50 750 38 063 63 438
+                                           BATTERIES
+6208 Batteries 100 AH 12 V                                Unité     89 900   67 425 112 375
+6209 Batteries 90 AH 12 V                                 Unité     84 100   63 075 105 125
+6210 Batteries 75 AH 12 V                                 Unité     65 250   48 938 81 563
+                                             PNEUS
+6211 205 R 16C Toyota Hilux                               Unité    137 750 103 313 172 188
+6212 256/65 R 17 Toyota Prado                             Unité    181 250 135 938 226 563
+6213 215/65 R 16 Duster                                   Unité    130 500 97 875 163 125
+6214 215/65 Chrysler                                      Unité    166 750 125 063 208 438
+6215 245/40 R 19 Genesis                                  Unité    203 000 152 250 253 750
+6216 750 R 16 Coaster                                     Unité    181 250 135 938 226 563
+6217 245/45 R 18 AZERA                                    Unité    188 500 141 375 235 625
+6218 255/70 R 16 Dongfeng                                 Unité    159 500 119 625 199 375
+6219 216/60 Camry                                         Unité    130 500 97 875 163 125
+                                     TOYOTA FORTUNER 5L
+6220 Amortisseur AV (paire)                               Unité     94 250   70 688 117 813
+6221 Amortisseur AR                                       Unité     79 750   59 813 99 688
+6222 Biellette de barre stabilisatrice AR                 Unité     14 500   10 875 18 125
+6223 Silent blocs de barre stabilisatrice (paire)         Unité     17 400   13 050 21 750
+6224 Rotules de bras inferieur                            Unité     40 600   30 450 50 750
+6225 Rotules de bras supérieur                            Unité     37 700   28 275 47 125
+6226 Rotule de direction                                  Unité     40 600   30 450 50 750
+6227 Plaquette de frein AV                                Unité     31 900   23 925 39 875
+6228 Plaquette de frein AR                                Unité     31 900   23 925 39 875
+                                               379

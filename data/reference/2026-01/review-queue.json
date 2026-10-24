@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t01:r001",
+    "source_item_number": "5900",
+    "designation": "Gaz oïl",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 1,
+      "row_index": 1,
+      "bbox": [
+        66.329,
+        137.849,
+        535.935,
+        155.615
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PRICE_OUTSIDE_BOUNDS",
+        "message": "Le prix moyen est hors de l'intervalle LI/LS."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t01:r002",
+    "source_item_number": "5901",
+    "designation": "Super sans plomb",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 1,
+      "row_index": 2,
+      "bbox": [
+        66.329,
+        155.615,
+        535.935,
+        171.92
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PRICE_OUTSIDE_BOUNDS",
+        "message": "Le prix moyen est hors de l'intervalle LI/LS."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t01:r003",
+    "source_item_number": "5902",
+    "designation": "Mélange 2 temps",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 1,
+      "row_index": 3,
+      "bbox": [
+        66.329,
+        171.92,
+        535.935,
+        188.218
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PRICE_OUTSIDE_BOUNDS",
+        "message": "Le prix moyen est hors de l'intervalle LI/LS."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t01:r004",
+    "source_item_number": "5903",
+    "designation": "Pétrole lampant",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 1,
+      "row_index": 4,
+      "bbox": [
+        66.329,
+        188.218,
+        535.935,
+        205.91
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PRICE_OUTSIDE_BOUNDS",
+        "message": "Le prix moyen est hors de l'intervalle LI/LS."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t03:r004",
+    "source_item_number": "5908",
+    "designation": "CAP TAURUS SW40 5l",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 3,
+      "row_index": 4,
+      "bbox": [
+        66.329,
+        451.017,
+        535.935,
+        467.277
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "OIL_GRADE_TO_REVIEW",
+        "message": "Le grade contient SW dans la source ; aucune correction vers 5W n'est appliquée."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t03:r005",
+    "source_item_number": "5909",
+    "designation": "CAP TAURUS SW30 5l",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 3,
+      "row_index": 5,
+      "bbox": [
+        66.329,
+        467.277,
+        535.935,
+        483.529
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "OIL_GRADE_TO_REVIEW",
+        "message": "Le grade contient SW dans la source ; aucune correction vers 5W n'est appliquée."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0492:t03:r006",
+    "source_item_number": "5910",
+    "designation": "CAP TAURUS SW20 5l",
+    "source": {
+      "pdf_page": 492,
+      "printed_page": 362,
+      "table_index": 3,
+      "row_index": 6,
+      "bbox": [
+        66.329,
+        483.529,
+        535.935,
+        499.789
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "OIL_GRADE_TO_REVIEW",
+        "message": "Le grade contient SW dans la source ; aucune correction vers 5W n'est appliquée."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0495:t02:r007",
+    "source_item_number": "5962",
+    "designation": "Mécanisme d'embrayage RAV 4",
+    "source": {
+      "pdf_page": 495,
+      "printed_page": 365,
+      "table_index": 2,
+      "row_index": 7,
+      "bbox": [
+        66.53,
+        378.27,
+        535.905,
+        395.836
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0495:t04:r001",
+    "source_item_number": "5964",
+    "designation": "Colle Baton 36G FKG35S carton de 12paquets",
+    "source": {
+      "pdf_page": 495,
+      "printed_page": 365,
+      "table_index": 4,
+      "row_index": 1,
+      "bbox": [
+        66.53,
+        602.843,
+        535.905,
+        638.607
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0496:t02:r001",
+    "source_item_number": "5972",
+    "designation": "Coussin pompons ivoire 100% coton , taille moyenne",
+    "source": {
+      "pdf_page": 496,
+      "printed_page": 366,
+      "table_index": 2,
+      "row_index": 1,
+      "bbox": [
+        66.53,
+        371.808,
+        535.905,
+        389.13
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0496:t02:r002",
+    "source_item_number": "5973",
+    "designation": "Coussins étoiles blanc LED , taille moyenne 100% coton , taille moyenne",
+    "source": {
+      "pdf_page": 496,
+      "printed_page": 366,
+      "table_index": 2,
+      "row_index": 2,
+      "bbox": [
+        66.53,
+        389.13,
+        535.905,
+        422.905
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0497:t02:r001",
+    "source_item_number": "5984",
+    "designation": "Butée d'embrayage NISSAN 4x4",
+    "source": {
+      "pdf_page": 497,
+      "printed_page": 367,
+      "table_index": 2,
+      "row_index": 1,
+      "bbox": [
+        66.685,
+        322.481,
+        535.795,
+        339.94
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0497:t02:r013",
+    "source_item_number": "5996",
+    "designation": "Garniture arrière freins HIGHLANDER",
+    "source": {
+      "pdf_page": 497,
+      "printed_page": 367,
+      "table_index": 2,
+      "row_index": 13,
+      "bbox": [
+        66.685,
+        542.49,
+        535.795,
+        558.78
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0497:t02:r014",
+    "source_item_number": "5997",
+    "designation": "HILUX TAMBOUR DE FREINS ARRIERE",
+    "source": {
+      "pdf_page": 497,
+      "printed_page": 367,
+      "table_index": 2,
+      "row_index": 14,
+      "bbox": [
+        66.685,
+        558.78,
+        535.795,
+        576.322
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r001",
+    "source_item_number": "5999",
+    "designation": "Enrouleur 10 m Protection",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 1,
+      "bbox": [
+        66.668,
+        138.108,
+        535.808,
+        155.6
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r002",
+    "source_item_number": "6000",
+    "designation": "Enrouleur câble de 40 mètres 3x1.5mm2",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 2,
+      "bbox": [
+        66.668,
+        155.6,
+        535.808,
+        171.92
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r003",
+    "source_item_number": "6001",
+    "designation": "Enrouleur câble de 50 mètres 4x16A 23 A ISOCAB",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 3,
+      "bbox": [
+        66.668,
+        171.92,
+        535.808,
+        188.17
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r004",
+    "source_item_number": "6002",
+    "designation": "Enrouleur DOMESTIQUE 5m",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 4,
+      "bbox": [
+        66.668,
+        188.17,
+        535.808,
+        204.4
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r005",
+    "source_item_number": "6003",
+    "designation": "Enrouleur prof 4*2P T 25m",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 5,
+      "bbox": [
+        66.668,
+        204.4,
+        535.808,
+        220.66
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r006",
+    "source_item_number": "6004",
+    "designation": "Enrouleur prof 4*2P T 50m",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 6,
+      "bbox": [
+        66.668,
+        220.66,
+        535.808,
+        236.97
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0498:t01:r007",
+    "source_item_number": "6005",
+    "designation": "Enrouleur prof 4P 40m",
+    "source": {
+      "pdf_page": 498,
+      "printed_page": 368,
+      "table_index": 1,
+      "row_index": 7,
+      "bbox": [
+        66.668,
+        236.97,
+        535.808,
+        254.516
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0500:t01:r006",
+    "source_item_number": "6048",
+    "designation": "Jeu de patin de frein avant TOYOTA RAV 4",
+    "source": {
+      "pdf_page": 500,
+      "printed_page": 370,
+      "table_index": 1,
+      "row_index": 6,
+      "bbox": [
+        66.661,
+        246.16,
+        535.809,
+        262.47
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0500:t03:r001",
+    "source_item_number": "6053",
+    "designation": "Jeu de coussinet de bielle STD HILUX 5L 4X4 Original",
+    "source": {
+      "pdf_page": 500,
+      "printed_page": 370,
+      "table_index": 3,
+      "row_index": 1,
+      "bbox": [
+        66.661,
+        584.081,
+        535.809,
+        612.88
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0500:t03:r002",
+    "source_item_number": "6054",
+    "designation": "Jeu de coussinet de palier STD HILUX 5L 4X4 Original",
+    "source": {
+      "pdf_page": 500,
+      "printed_page": 370,
+      "table_index": 3,
+      "row_index": 2,
+      "bbox": [
+        66.661,
+        612.88,
+        535.809,
+        641.196
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0500:t03:r005",
+    "source_item_number": "6057",
+    "designation": "Jeu de segment moteur STD HILUX 5L 4X4 Original",
+    "source": {
+      "pdf_page": 500,
+      "printed_page": 370,
+      "table_index": 3,
+      "row_index": 5,
+      "bbox": [
+        66.661,
+        673.275,
+        535.809,
+        702.44
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0501:t01:r002",
+    "source_item_number": "6059",
+    "designation": "Courroie de chine",
+    "source": {
+      "pdf_page": 501,
+      "printed_page": 371,
+      "table_index": 1,
+      "row_index": 2,
+      "bbox": [
+        66.62,
+        199.75,
+        535.838,
+        216.07
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0503:t04:r001",
+    "source_item_number": "6099",
+    "designation": "Pneu 195/65 R15 Marque MICHELIN",
+    "source": {
+      "pdf_page": 503,
+      "printed_page": 373,
+      "table_index": 4,
+      "row_index": 1,
+      "bbox": [
+        66.628,
+        606.128,
+        535.841,
+        623.61
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "POSSIBLE_DUPLICATE_SPECIFICATION",
+        "message": "Des pneus portent la même marque et dimension explicites ; les autres caractéristiques restent à vérifier."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0503:t04:r007",
+    "source_item_number": "6105",
+    "designation": "Pneu 225/70 R17 marque MICHELIN",
+    "source": {
+      "pdf_page": 503,
+      "printed_page": 373,
+      "table_index": 4,
+      "row_index": 7,
+      "bbox": [
+        66.628,
+        704.95,
+        535.841,
+        721.2
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "POSSIBLE_DUPLICATE_SPECIFICATION",
+        "message": "Des pneus portent la même marque et dimension explicites ; les autres caractéristiques restent à vérifier."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0504:t01:r015",
+    "source_item_number": "6123",
+    "designation": "Pneu Michelin 195/65 R15",
+    "source": {
+      "pdf_page": 504,
+      "printed_page": 374,
+      "table_index": 1,
+      "row_index": 15,
+      "bbox": [
+        66.693,
+        351.76,
+        535.79,
+        368.02
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "POSSIBLE_DUPLICATE_SPECIFICATION",
+        "message": "Des pneus portent la même marque et dimension explicites ; les autres caractéristiques restent à vérifier."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0504:t01:r016",
+    "source_item_number": "6124",
+    "designation": "Pneu Michelin 225/70 R17",
+    "source": {
+      "pdf_page": 504,
+      "printed_page": 374,
+      "table_index": 1,
+      "row_index": 16,
+      "bbox": [
+        66.693,
+        368.02,
+        535.79,
+        384.27
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "POSSIBLE_DUPLICATE_SPECIFICATION",
+        "message": "Des pneus portent la même marque et dimension explicites ; les autres caractéristiques restent à vérifier."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0504:t02:r001",
+    "source_item_number": "6128",
+    "designation": "Pompe à eau RAV 4",
+    "source": {
+      "pdf_page": 504,
+      "printed_page": 374,
+      "table_index": 2,
+      "row_index": 1,
+      "bbox": [
+        66.693,
+        544.346,
+        535.79,
+        563.146
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0504:t03:r001",
+    "source_item_number": "6128",
+    "designation": "Roue libre de la courroie de distribution",
+    "source": {
+      "pdf_page": 504,
+      "printed_page": 374,
+      "table_index": 3,
+      "row_index": 1,
+      "bbox": [
+        66.693,
+        664.708,
+        535.79,
+        682.26
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t01:r001",
+    "source_item_number": "6130",
+    "designation": "Projecteur led BRILLIANT RGB 15w JINNA",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 1,
+      "row_index": 1,
+      "bbox": [
+        66.587,
+        138.108,
+        535.864,
+        155.6
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t01:r002",
+    "source_item_number": "6131",
+    "designation": "Projecteur led CTORCH 220-240 V IP65 50w",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 1,
+      "row_index": 2,
+      "bbox": [
+        66.587,
+        155.6,
+        535.864,
+        171.99
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t01:r003",
+    "source_item_number": "6132",
+    "designation": "Projecteur led SCHMIDT 30w 4000K",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 1,
+      "row_index": 3,
+      "bbox": [
+        66.587,
+        171.99,
+        535.864,
+        189.536
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "PILOT_SCOPE_REVIEW",
+        "message": "Le rattachement au périmètre pièces automobiles du pilote doit être revu."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t02:r001",
+    "source_item_number": "6133",
+    "designation": "Raccord rapide de Tuyaux 2121 LAI en métal",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 2,
+      "row_index": 1,
+      "bbox": [
+        66.587,
+        295.901,
+        535.864,
+        313.41
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t02:r002",
+    "source_item_number": "6133",
+    "designation": "Raccord rapide en plastique",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 2,
+      "row_index": 2,
+      "bbox": [
+        66.587,
+        313.41,
+        535.864,
+        331.016
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t03:r001",
+    "source_item_number": "6133",
+    "designation": "HILUX VENTILATEUR MOTEUR",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 3,
+      "row_index": 1,
+      "bbox": [
+        66.587,
+        434.426,
+        535.864,
+        453.226
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r001",
+    "source_item_number": "6134",
+    "designation": "Anti usure",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 1,
+      "bbox": [
+        66.587,
+        553.388,
+        535.864,
+        570.87
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r002",
+    "source_item_number": "6135",
+    "designation": "Courroie de distribution",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 2,
+      "bbox": [
+        66.587,
+        570.87,
+        535.864,
+        587.16
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r003",
+    "source_item_number": "6136",
+    "designation": "Courroie de pompe de direction",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 3,
+      "bbox": [
+        66.587,
+        587.16,
+        535.864,
+        603.42
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r004",
+    "source_item_number": "6137",
+    "designation": "Filtre à air",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 4,
+      "bbox": [
+        66.587,
+        603.42,
+        535.864,
+        619.67
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r005",
+    "source_item_number": "6138",
+    "designation": "Filtre à pollen",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 5,
+      "bbox": [
+        66.587,
+        619.67,
+        535.864,
+        635.93
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r006",
+    "source_item_number": "6139",
+    "designation": "Jeu de Courroies d'entrainement",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 6,
+      "bbox": [
+        66.587,
+        635.93,
+        535.864,
+        652.25
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0505:t04:r007",
+    "source_item_number": "6140",
+    "designation": "Pré-vidange",
+    "source": {
+      "pdf_page": 505,
+      "printed_page": 375,
+      "table_index": 4,
+      "row_index": 7,
+      "bbox": [
+        66.587,
+        652.25,
+        535.864,
+        669.816
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      },
+      {
+        "code": "SERVICE_TAX_BASIS_REVIEW",
+        "message": "Prestation potentielle ; le guide ne précise HT que pour les produits."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0506:t03:r001",
+    "source_item_number": "6153",
+    "designation": "Crémaillère complet RAV 4",
+    "source": {
+      "pdf_page": 506,
+      "printed_page": 376,
+      "table_index": 3,
+      "row_index": 1,
+      "bbox": [
+        66.653,
+        596.461,
+        535.814,
+        613.97
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0506:t03:r002",
+    "source_item_number": "6154",
+    "designation": "Jeu d'arrêt d'huile de queues soupapes",
+    "source": {
+      "pdf_page": 506,
+      "printed_page": 376,
+      "table_index": 3,
+      "row_index": 2,
+      "bbox": [
+        66.653,
+        613.97,
+        535.814,
+        631.576
+      ],
+      "section": null
+    },
+    "issues": [
+      {
+        "code": "FAMILY_CLASSIFICATION_REVIEW",
+        "message": "La désignation paraît discordante avec la famille du PDF."
+      },
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0508:t01:r004",
+    "source_item_number": "6167",
+    "designation": "Biellette de barre stabilisatrice",
+    "source": {
+      "pdf_page": 508,
+      "printed_page": 378,
+      "table_index": 1,
+      "row_index": 4,
+      "bbox": [
+        66.736,
+        199.83,
+        535.762,
+        217.681
+      ],
+      "section": {
+        "label_raw": "CHERY",
+        "pdf_page": 508,
+        "y": 130.853,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0508:t01:r005",
+    "source_item_number": "6167",
+    "designation": "Filtres à huile",
+    "source": {
+      "pdf_page": 508,
+      "printed_page": 378,
+      "table_index": 1,
+      "row_index": 5,
+      "bbox": [
+        66.736,
+        236.902,
+        535.762,
+        254.2
+      ],
+      "section": {
+        "label_raw": "CHRYSLER",
+        "pdf_page": 508,
+        "y": 217.681,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "DUPLICATE_SOURCE_NUMBER",
+        "message": "Le même numéro source désigne plusieurs lignes."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0509:t01:r021",
+    "source_item_number": "6214",
+    "designation": "215/65 Chrysler",
+    "source": {
+      "pdf_page": 509,
+      "printed_page": 379,
+      "table_index": 1,
+      "row_index": 21,
+      "bbox": [
+        66.772,
+        511.13,
+        535.751,
+        527.39
+      ],
+      "section": {
+        "label_raw": "PNEUS",
+        "pdf_page": 509,
+        "y": 442.042,
+        "kind": "product_group"
+      }
+    },
+    "issues": [
+      {
+        "code": "TYRE_DIMENSIONS_INCOMPLETE",
+        "message": "Une dimension avec rapport de section ne précise pas le diamètre de jante."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0509:t01:r026",
+    "source_item_number": "6219",
+    "designation": "216/60 Camry",
+    "source": {
+      "pdf_page": 509,
+      "printed_page": 379,
+      "table_index": 1,
+      "row_index": 26,
+      "bbox": [
+        66.772,
+        592.44,
+        535.751,
+        610.336
+      ],
+      "section": {
+        "label_raw": "PNEUS",
+        "pdf_page": 509,
+        "y": 442.042,
+        "kind": "product_group"
+      }
+    },
+    "issues": [
+      {
+        "code": "TYRE_DIMENSIONS_INCOMPLETE",
+        "message": "Une dimension avec rapport de section ne précise pas le diamètre de jante."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0509:t01:r027",
+    "source_item_number": "6220",
+    "designation": "Amortisseur AV (paire)",
+    "source": {
+      "pdf_page": 509,
+      "printed_page": 379,
+      "table_index": 1,
+      "row_index": 27,
+      "bbox": [
+        66.772,
+        629.507,
+        535.751,
+        646.83
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER 5L",
+        "pdf_page": 509,
+        "y": 610.336,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0509:t01:r030",
+    "source_item_number": "6223",
+    "designation": "Silent blocs de barre stabilisatrice (paire)",
+    "source": {
+      "pdf_page": 509,
+      "printed_page": 379,
+      "table_index": 1,
+      "row_index": 30,
+      "bbox": [
+        66.772,
+        679.4,
+        535.751,
+        695.65
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER 5L",
+        "pdf_page": 509,
+        "y": 610.336,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r006",
+    "source_item_number": "6234",
+    "designation": "Amortisseur AV (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 6,
+      "bbox": [
+        66.793,
+        219.262,
+        535.731,
+        236.55
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r007",
+    "source_item_number": "6235",
+    "designation": "Amortisseur AR (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 7,
+      "bbox": [
+        66.793,
+        236.55,
+        535.731,
+        252.87
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r008",
+    "source_item_number": "6236",
+    "designation": "Biellette de barre stabilisatrice (paire) AR",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 8,
+      "bbox": [
+        66.793,
+        252.87,
+        535.731,
+        269.12
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r009",
+    "source_item_number": "6237",
+    "designation": "Silent blocs de barre stabilisatrice (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 9,
+      "bbox": [
+        66.793,
+        269.12,
+        535.731,
+        285.37
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r010",
+    "source_item_number": "6238",
+    "designation": "Rotules de bras inferieur (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 10,
+      "bbox": [
+        66.793,
+        285.37,
+        535.731,
+        301.6
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r011",
+    "source_item_number": "6239",
+    "designation": "Rotules de bras supérieur (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 11,
+      "bbox": [
+        66.793,
+        301.6,
+        535.731,
+        317.86
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r012",
+    "source_item_number": "6240",
+    "designation": "Rotule de direction (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 12,
+      "bbox": [
+        66.793,
+        317.86,
+        535.731,
+        334.11
+      ],
+      "section": {
+        "label_raw": "TOYOTA FORTUNER D4D",
+        "pdf_page": 510,
+        "y": 200.041,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r020",
+    "source_item_number": "6248",
+    "designation": "Amortisseur AV (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 20,
+      "bbox": [
+        66.793,
+        468.761,
+        535.731,
+        486.06
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r021",
+    "source_item_number": "6249",
+    "designation": "Amortisseur AR (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 21,
+      "bbox": [
+        66.793,
+        486.06,
+        535.731,
+        502.38
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r022",
+    "source_item_number": "6250",
+    "designation": "Biellette de barre stabilisatrice (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 22,
+      "bbox": [
+        66.793,
+        502.38,
+        535.731,
+        518.63
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r023",
+    "source_item_number": "6251",
+    "designation": "Silent blocs de barre stabilisatrice (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 23,
+      "bbox": [
+        66.793,
+        518.63,
+        535.731,
+        534.89
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r024",
+    "source_item_number": "6252",
+    "designation": "Rotules de bras inferieur (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 24,
+      "bbox": [
+        66.793,
+        534.89,
+        535.731,
+        551.14
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r025",
+    "source_item_number": "6253",
+    "designation": "Rotules de bras supérieur (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 25,
+      "bbox": [
+        66.793,
+        551.14,
+        535.731,
+        567.39
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r026",
+    "source_item_number": "6254",
+    "designation": "Rotule de direction (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 26,
+      "bbox": [
+        66.793,
+        567.39,
+        535.731,
+        583.62
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r027",
+    "source_item_number": "6255",
+    "designation": "Plaquette de frein AV (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 27,
+      "bbox": [
+        66.793,
+        583.62,
+        535.731,
+        599.88
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r028",
+    "source_item_number": "6256",
+    "designation": "Plaquette de frein AR (paire)",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 28,
+      "bbox": [
+        66.793,
+        599.88,
+        535.731,
+        616.13
+      ],
+      "section": {
+        "label_raw": "TOYOTA HILUX",
+        "pdf_page": 510,
+        "y": 449.542,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0510:t01:r036",
+    "source_item_number": "6264",
+    "designation": "Jeux d’amortisseur AV",
+    "source": {
+      "pdf_page": 510,
+      "printed_page": 380,
+      "table_index": 1,
+      "row_index": 36,
+      "bbox": [
+        66.793,
+        750.781,
+        535.731,
+        767.737
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r001",
+    "source_item_number": "6265",
+    "designation": "Jeux de biellette AV",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 1,
+      "bbox": [
+        66.79,
+        118.048,
+        535.733,
+        133.36
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r002",
+    "source_item_number": "6266",
+    "designation": "Jeux de biellette AR",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 2,
+      "bbox": [
+        66.79,
+        133.36,
+        535.733,
+        149.61
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r003",
+    "source_item_number": "6267",
+    "designation": "Jeux de silent blocs inférieur",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 3,
+      "bbox": [
+        66.79,
+        149.61,
+        535.733,
+        165.87
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r004",
+    "source_item_number": "6268",
+    "designation": "Jeux de silent blocs supérieur",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 4,
+      "bbox": [
+        66.79,
+        165.87,
+        535.733,
+        182.12
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r005",
+    "source_item_number": "6269",
+    "designation": "Jeux de globe phare",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 5,
+      "bbox": [
+        66.79,
+        182.12,
+        535.733,
+        198.37
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r006",
+    "source_item_number": "6270",
+    "designation": "Jeux de feu arrière",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 6,
+      "bbox": [
+        66.79,
+        198.37,
+        535.733,
+        214.6
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r007",
+    "source_item_number": "6271",
+    "designation": "Jeux de rotules supérieur",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 7,
+      "bbox": [
+        66.79,
+        214.6,
+        535.733,
+        230.86
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r008",
+    "source_item_number": "6272",
+    "designation": "Jeux de rotules inférieure",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 8,
+      "bbox": [
+        66.79,
+        230.86,
+        535.733,
+        247.11
+      ],
+      "section": {
+        "label_raw": "HILUX 2018",
+        "pdf_page": 510,
+        "y": 731.562,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r018",
+    "source_item_number": "6282",
+    "designation": "Jeux de plaquette AV",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 18,
+      "bbox": [
+        66.79,
+        414.281,
+        535.733,
+        431.57
+      ],
+      "section": {
+        "label_raw": "PEUGEOT LANDTREK",
+        "pdf_page": 511,
+        "y": 395.061,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r019",
+    "source_item_number": "6283",
+    "designation": "Jeux de garniture AR",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 19,
+      "bbox": [
+        66.79,
+        431.57,
+        535.733,
+        447.89
+      ],
+      "section": {
+        "label_raw": "PEUGEOT LANDTREK",
+        "pdf_page": 511,
+        "y": 395.061,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r021",
+    "source_item_number": "6285",
+    "designation": "Biellette (jeux) AV",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 21,
+      "bbox": [
+        66.79,
+        464.14,
+        535.733,
+        480.39
+      ],
+      "section": {
+        "label_raw": "PEUGEOT LANDTREK",
+        "pdf_page": 511,
+        "y": 395.061,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r029",
+    "source_item_number": "6293",
+    "designation": "Jeux de plaquette AR",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 29,
+      "bbox": [
+        66.79,
+        616.07,
+        535.733,
+        632.39
+      ],
+      "section": {
+        "label_raw": "AZERA",
+        "pdf_page": 511,
+        "y": 579.561,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r030",
+    "source_item_number": "6294",
+    "designation": "Jeux de plaquette AV",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 30,
+      "bbox": [
+        66.79,
+        632.39,
+        535.733,
+        648.64
+      ],
+      "section": {
+        "label_raw": "AZERA",
+        "pdf_page": 511,
+        "y": 579.561,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r031",
+    "source_item_number": "6295",
+    "designation": "Jeux de Biellette",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 31,
+      "bbox": [
+        66.79,
+        648.64,
+        535.733,
+        664.97
+      ],
+      "section": {
+        "label_raw": "AZERA",
+        "pdf_page": 511,
+        "y": 579.561,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  },
+  {
+    "id": "togo-reference-prices-2026-01:p0511:t01:r032",
+    "source_item_number": "6296",
+    "designation": "Jeux de rotule sous amortisseur",
+    "source": {
+      "pdf_page": 511,
+      "printed_page": 381,
+      "table_index": 1,
+      "row_index": 32,
+      "bbox": [
+        66.79,
+        664.97,
+        535.733,
+        682.836
+      ],
+      "section": {
+        "label_raw": "AZERA",
+        "pdf_page": 511,
+        "y": 579.561,
+        "kind": "vehicle_context"
+      }
+    },
+    "issues": [
+      {
+        "code": "UNIT_PACKAGING_AMBIGUOUS",
+        "message": "La désignation indique un jeu, une paire ou un ensemble mais l'unité source reste unité/pièce."
+      }
+    ]
+  }
+]
